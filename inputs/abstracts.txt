@@ -1,0 +1,1905 @@
+"[Front cover]," 2016 13th International Workshop on Discrete Event Systems 
+(WODES), Xi'an, China, 2016, pp. c1-c4.
+doi: 10.1109/WODES.2016.7497816
+Abstract: Presents the front cover or splash screen of the proceedings record.
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497816&isnumber=7497815
+
+"[Front matter]," 2016 13th International Workshop on Discrete Event Systems 
+(WODES), Xi'an, China, 2016, pp. 1-24.
+doi: 10.1109/WODES.2016.7497817
+Abstract: Conference proceedings front matter may contain various 
+advertisements, welcome messages, committee or program information, and other 
+miscellaneous conference information. This may in some cases also include the 
+cover art, table of contents, copyright statements, title-page or half 
+title-pages, blank pages, venue maps or other general information relating to 
+the conference that was part of the original conference proceedings.
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497817&isnumber=7497815
+
+X. Yin and S. Lafortune, "On maximal permissiveness in partially-observed 
+discrete event systems: Verification and synthesis," 2016 13th International 
+Workshop on Discrete Event Systems (WODES), Xi'an, 2016, pp. 1-7.
+doi: 10.1109/WODES.2016.7497818
+Abstract: The notion of maximal permissiveness plays an important role in 
+synthesis problems in the supervisory control framework. It is well known that 
+the supervisor synthesis problem has a unique supremal solution when all the 
+events are observable. However, under the partial observation setting, no 
+supremal solution exists in general and there may exist several locally maximal 
+solutions. In this paper, we tackle the supervisory control problem under 
+partial observation from a new angle. First, we propose an approach to verify 
+whether a given supervisor is maximal or not. If a supervisor is not maximal, 
+then we provide an algorithm that synthesizes a new supervisor that is strictly 
+more permissive than the given one. To the best of our knowledge, both the 
+verification of maximality and the synthesis of a larger solution were 
+previously open problems; our algorithms are the first ones of their kind.
+ keywords: {control system synthesis;discrete event 
+systems;observability;maximal permissiveness;maximality 
+verification;observability;partial observation setting;partially-observed 
+discrete event systems;supervisor synthesis problem;supervisory control 
+framework;supremal solution;Zinc},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497818&isnumber=7497815
+
+K. Cai and W. M. Wonham, "A new algorithm for computing the supremal relatively 
+observable sublanguage," 2016 13th International Workshop on Discrete Event 
+Systems (WODES), Xi'an, 2016, pp. 8-13.
+doi: 10.1109/WODES.2016.7497819
+Abstract: Recently we proposed relative observability for supervisory control of 
+discrete-event systems under partial observation. Relative observability is 
+closed under set unions and hence there exists the supremal relatively 
+observable sublanguage of a given language. In this paper we present a new 
+characterization of relative observability, based on which we design an 
+algorithm that computes the supremal sublanguage. This algorithm is formulated 
+in terms of languages, thereby separating out the linguistic essence of the 
+problem from the implementational aspects of state computation using automaton 
+models. Exploiting the linguistic concept of support based on Nerode 
+equivalence, we prove that for regular languages the algorithm is finitely 
+convergent to the supremal sublanguage.
+ keywords: {discrete event systems;formal languages;observability;Nerode 
+equivalence;discrete-event systems;linguistic concept;partial 
+observation;regular languages;relative observability;state 
+computation;supervisory control;supremal relatively observable 
+sublanguage;Algorithm design and analysis;Automata;Computational 
+modeling;Control systems;Discrete-event systems;Observability;Pragmatics;Nerode 
+equivalence relation;Supervisory control;discrete-event 
+systems;partial-observation;regular languages;relative observability},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497819&isnumber=7497815
+
+L. Swartjes, M. A. Reniers, D. A. van Beek and W. J. Fokkink, "Why is my 
+supervisor empty? Finding causes for the unreachability of states in synthesized 
+supervisors," 2016 13th International Workshop on Discrete Event Systems 
+(WODES), Xi'an, 2016, pp. 14-21.
+doi: 10.1109/WODES.2016.7497820
+Abstract: Although supervisory control synthesis has been around for many years, 
+adoption is still low. A weak point of synthesis is the absence of a reporting 
+mechanism. When an empty or unexpected supervisor is returned, it is very 
+difficult to explain why this is the case. It is desired to return an 
+explanation for a question, like, “Why is my supervisor empty?”. In general, the 
+information needed to provide such an explanation is not present in the 
+synthesized result. In this paper, causes (explanations) are generated for 
+questions regarding the absence of behavior in the synthesized system. To this 
+end, it is first investigated what information is needed and how it should be 
+stored. Based on these findings, information of the influence of each 
+requirement is encoded in the supervisor. This is done by annotating colors. The 
+resulting so-called colored predicates can be used after synthesis to derive a 
+cause for a given question.
+ keywords: {SCADA systems;control system synthesis;reachability analysis;colored 
+predicates;supervisory control synthesis;synthesized 
+supervisors;unreachability;Automata;Color;Conferences;Cost accounting;Mechanical 
+engineering;Supervisory control},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497820&isnumber=7497815
+
+K. Mallik and A. K. Schmuck, "Supervisory controller synthesis for decomposable 
+deterministic context free specification languages," 2016 13th International 
+Workshop on Discrete Event Systems (WODES), Xi'an, 2016, pp. 22-27.
+doi: 10.1109/WODES.2016.7497821
+Abstract: In this paper we consider a supervisory control problem (SCP) 
+consisting of a regular plant language and a deterministic context free 
+specification language, where the latter can be decomposed into a regular and a 
+deterministic context free part. For this setup we give an implementable 
+algorithm calculating two separate controllers for each part of the 
+specification. We show under which conditions the parallel composition of these 
+controllers solves the original SCP. The latter is done by reducing the problem 
+to a special case of hierarchical decentralized control and using existing 
+results from the literature.
+ keywords: {control system synthesis;decentralised control;formal 
+languages;hierarchical systems;specification languages;SCP;deterministic context 
+free specification language;hierarchical decentralized control;implementable 
+algorithm;parallel composition;regular plant language;supervisory control 
+problem;supervisory controller synthesis;Automata;Context;Decentralized 
+control;Handheld computers;Observers;Production;Supervisory 
+control;Deterministic Context Free Languages;Hierarchical Decentralized 
+Control;Supervisory Control Theory},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497821&isnumber=7497815
+
+F. Atampore, J. Dingel and K. Rudie, "Automated service composition via 
+supervisory control theory," 2016 13th International Workshop on Discrete Event 
+Systems (WODES), Xi'an, 2016, pp. 28-35.
+doi: 10.1109/WODES.2016.7497822
+Abstract: Web services play a major role in electronic businesses and allow 
+organizations to perform certain business activities in a distributed fashion. 
+In some circumstances, a single service is not able to perform certain tasks and 
+it becomes imperative to compose two or more services in order to complete a 
+task. While approaches to tackle such a problem are known, the task of 
+generating provably correct Web service compositions still remain challenging 
+and complex. In this paper, we develop a supervisory control framework for 
+automated composition of Web services. Labelled Transition Systems augmented 
+with guards and data variables are used to represent a given set of Web service 
+specifications. We model the interactions of services asynchronously and we use 
+guards and data variables to allow us to express certain preconditions which are 
+then propagated from the system requirements through the overall composite 
+service. The objective of our framework is to synthesize a controller, which 
+interacts with a given set of Web services through messages to guarantee that a 
+given specification is satisfied. A key novelty of this work is the application 
+of control theory to service-oriented computing and the incorporation of 
+run-time input into the supervisor generation process.
+ keywords: {Web services;business data processing;service-oriented 
+architecture;Web service compositions;Web service specifications;automated 
+service composition;business activities;electronic businesses;labelled 
+transition systems;service-oriented computing;supervisor generation 
+process;supervisory control theory;Business;Computational 
+modeling;Semantics;Software systems;Supervisory control;Web services},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497822&isnumber=7497815
+
+F. L. Baldissera and J. E. R. Cury, "Computing continuous control laws for gene 
+regulatory networks within a discrete-event systems approach," 2016 13th 
+International Workshop on Discrete Event Systems (WODES), Xi'an, 2016, pp. 
+36-43.
+doi: 10.1109/WODES.2016.7497823
+Abstract: Controlling the dynamics of intracellular networks has many important 
+applications in Biotechnology and Medicine. In a previous work, we presented a 
+method based on the Supervisory Control Theory to find a control law capable of 
+guiding a given gene regulatory network from an initial state to some predefined 
+target state. The controller was assumed to be implemented by synthetic genes. 
+Our approach was entirely developed in the discrete-event domain. In this paper, 
+we show that our ideas can also be employed to find continuous control laws for 
+gene regulatory networks modeled by ordinary differential equations. Hence, we: 
+a) enlarge the range of application of our initial ideas to encompass continuous 
+models traditionally used by the Systems Biology community; and b) make it 
+possible to refine the dynamic specifications of the synthetic genes that act as 
+controllers.
+ keywords: {continuous systems;differential equations;discrete event 
+systems;genetics;biotechnology;continuous control laws;discrete-event 
+domain;discrete-event systems approach;dynamic specifications;dynamics 
+control;gene regulatory networks;intracellular networks;medicine;ordinary 
+differential equations;supervisory control theory;synthetic 
+genes;Automata;Biological system modeling;Computational modeling;Differential 
+equations;Mathematical model;Proteins;Supervisory control},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497823&isnumber=7497815
+
+G. Cavone, M. Dotoli and C. Seatzu, "Resource planning of intermodal terminals 
+using timed Petri nets," 2016 13th International Workshop on Discrete Event 
+Systems (WODES), Xi'an, 2016, pp. 44-50.
+doi: 10.1109/WODES.2016.7497824
+Abstract: In this paper we show how timed Petri nets can be efficiently used to 
+solve problems related to resource planning in intermodal freight transport 
+terminals. In particular, the tackled issues regard the strategic planning of 
+the number of facilities used to transfer the intermodal transport units and the 
+capacity/frequency of the transportation means. A real case study is considered, 
+namely a rail-road terminal located in southern Italy. Monte Carlo simulations 
+based on the timed Petri net model of the terminal are carried out considering 
+various scenarios, including both the regular behavior based on real data, and 
+situations of potential congestion resulting from increase in the commercial 
+flows.
+ keywords: {Monte Carlo methods;Petri nets;freight handling;strategic 
+planning;transportation;Monte Carlo simulations;commercial flows;intermodal 
+freight transport terminals;rail-road terminal;regular behavior;resource 
+planning;southern Italy;strategic planning;timed Petri net model;transportation 
+means capacity;transportation means frequency;Analytical models;Computational 
+modeling;Data models;Firing;Load modeling;Petri nets;Transportation},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497824&isnumber=7497815
+
+M. P. Fanti, A. M. Mangini, G. Pedroncelli and W. Ukovich, "A Petri Net model 
+for fleet sizing of Electric Car Sharing Systems," 2016 13th International 
+Workshop on Discrete Event Systems (WODES), Xi'an, 2016, pp. 51-56.
+doi: 10.1109/WODES.2016.7497825
+Abstract: This paper deals with two basic design problems that incur in a modern 
+city transportation strategy, i.e., the Electric Car Sharing System (ECSS). 
+Modelling the system in a modular Timed Petri Net (TPN) framework, the optimal 
+fleet size and the number of charging positions of the ECSS are determined by a 
+simulation analysis. The ECSS dynamics is described by taking into account fully 
+charged, partially charged and out of power electric vehicles. Moreover, TPNs 
+allow taking into account some particular events, like specific user flows in 
+different time bands or the exit of the customers from the station after waiting 
+for the availability of electric cars. A simulation study points out the 
+effectiveness of the proposed design strategy.
+ keywords: {Petri nets;automobiles;electric vehicles;transportation;ECSS 
+dynamics;city transportation strategy;design problems;electric car sharing 
+systems;fleet sizing;modular TPN framework;modular tmed Petri net;optimal fleet 
+size;power electric vehicles;simulation analysis;system 
+modelling;Automobiles;Cascading style sheets;Mathematical model;Petri 
+nets;Stochastic processes;Urban areas},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497825&isnumber=7497815
+
+Ming Liu, Lujun Xu, Shijin Wang and Chengbin Chu, "Efficient algorithm for quay 
+crane scheduling with arbitrary precedence constraint," 2016 13th International 
+Workshop on Discrete Event Systems (WODES), Xi'an, 2016, pp. 57-62.
+doi: 10.1109/WODES.2016.7497826
+Abstract: This paper investigates quay crane scheduling problem at container 
+ports, subject to arbitrary precedence constraint. Differing from traditional 
+machine scheduling problems, non-crossing constraint must be satisfied because 
+parallel quay cranes mount on a same rail to unload or load containers. 
+Precedence relation in an arbitrary form is rarely investigated in the 
+literature, however it may be originated from (i) reefers or dangerous cargo 
+which requires high priority of processing, and (ii) yard stacking plan. We 
+present computational complexity for several problem variations. We show the 
+problem, even without precedence constraint, is strongly NP-hard, which improves 
+the state-of-the-art. A genetic algorithm is proposed to obtain near-optimal 
+solutions. Computational experiments demonstrate the efficiency.
+ keywords: {computational complexity;cranes;genetic 
+algorithms;scheduling;NP-hard problem;arbitrary precedence 
+constraint;computational complexity;dangerous cargo;genetic algorithm;machine 
+scheduling problem;precedence relation;quay crane scheduling problem;reefers 
+cargo;yard stacking plan;Containers;Cranes;Electronic mail;Genetic 
+algorithms;Job shop scheduling;Schedules},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497826&isnumber=7497815
+
+F. Hagebring, O. Wigström, B. Lennartson, S. I. Ware and Rong Su, "Comparing 
+MILP, CP, and A* for multiple stacker crane scheduling," 2016 13th International 
+Workshop on Discrete Event Systems (WODES), Xi'an, 2016, pp. 63-70.
+doi: 10.1109/WODES.2016.7497827
+Abstract: This paper describes an optimisation model for the scheduling of a 
+system consisting of three stacker cranes that are restricted to the same track. 
+To improve the efficiency of the solution methods, a novel simplification of the 
+model is presented, which has a low impact on the quality of the solution but 
+greatly decreases its complexity. This model is then used to benchmark several 
+popular solution methods, including both optimal and approximate methods. Some 
+are based on monolithic models, whereas others solve the problem in phases by 
+using sub-problem formulations. The result presented in this paper shows that 
+evaluated solution methods have complementary strengths and weaknesses. 
+Constraint Programming (CP) is very efficient on small scale problems, while 
+Mixed Integer Linear Programming (MILP) scales much better when the number of 
+movement orders increases. However, none of these methods are able to solve 
+large instances of the problem to optimality. To handle the complexity of the 
+problem, approximate solution methods are the only viable option. In this paper 
+we show that promising results can be obtained even with simple methods using 
+well known search algorithms such as A* and Tabu-search. However, preliminary 
+results on more advanced search algorithms show that further improvements may be 
+achieved, allowing the solution of very large problem instances.
+ keywords: {computational complexity;constraint handling;cranes;integer 
+programming;linear programming;scheduling;search problems;storage;A* 
+search;MILP;Tabu-search;approximate method;complexity handling;constraint 
+programming;mixed integer linear programming;monolithic model;movement 
+orders;multiple stacker crane scheduling;optimal method;optimisation 
+model;search algorithm;subproblem formulation;Approximation algorithms;Collision 
+avoidance;Complexity theory;Containers;Cranes;Schedules;Tracking},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497827&isnumber=7497815
+
+N. Sundström and B. Lennartson, "Rescheduling affected operations - a purely 
+predictive approach," 2016 13th International Workshop on Discrete Event Systems 
+(WODES), Xi'an, 2016, pp. 71-78.
+doi: 10.1109/WODES.2016.7497828
+Abstract: Rescheduling is used to minimize the impact on the system performance 
+when disruptions are present. Affected operations rescheduling (AOR), is often 
+mentioned in the literature on rescheduling. This method generates an initial 
+deterministic job shop schedule offline, which is updated online in response to 
+machine breakdowns. Only operations directly or indirectly affected by a disrupt 
+is rescheduled. In this paper, we formulate a purely offline AOR approach for 
+job shops. Based on a time-optimal schedule, the proposed method generates 
+sequence-based constraints resulting in the same system performance. The 
+realized schedule is identical for both approaches. Also, the proposed approach 
+applies to any disrupt that might cause delays in the system. In right-shift 
+rescheduling (RSR), all remaining operations are postponed if disrupts occur. A 
+formal proof is presented to show that AOR will always perform better than or 
+equal to RSR in the face of disruptions. For analyzing the effect of disrupts, 
+an analytical measure of the makespan is introduced, which depends on possible 
+delays in the system.
+ keywords: {job shop scheduling;AOR;RSR;affected operations 
+recheduling;deterministic job shop schedule;machine breakdowns;right-shift 
+rescheduling;sequence-based constraints;time-optimal schedule;Delays;Electric 
+breakdown;Job shop scheduling;Optimal scheduling;Robustness;Schedules;System 
+performance},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497828&isnumber=7497815
+
+W. M. Boussahel and G. Frey, "Priced discrete Automata for modeling energy 
+efficient manufacturing systems," 2016 13th International Workshop on Discrete 
+Event Systems (WODES), Xi'an, 2016, pp. 79-84.
+doi: 10.1109/WODES.2016.7497829
+Abstract: Cost optimization is a main concern of the industry nowadays and 
+reducing the total energy input is one of the main ways to achieve it. Modeling 
+through discrete event systems is a powerful tool to model complex human made 
+systems often encountered in the manufacturing and model checkers offer a 
+framework for the evaluation and optimization of such systems. A formalism is 
+presented in the present paper to define a discrete version of Priced Timed 
+Automata in the model checker PRISM by using an extension to discrete automata. 
+Priced Timed Automata have been introduced as a formal way to study real time 
+continuous systems. However, PRISM is a tool conceived for discrete automata but 
+cannot handle the continuous priced automata directly due to its high 
+restrictions in using the clock variables. The presented formalism offers an 
+approach of modelling that gets around these restrictions.
+ keywords: {automata theory;formal verification;manufacturing 
+systems;optimisation;complex human made systems;continuous priced automata;cost 
+optimization;discrete event systems;energy efficient manufacturing 
+systems;energy input;formalism;industry;model checker PRISM;model 
+checkers;modelling;priced discrete automata;priced timed automata;real time 
+continuous systems;Automata;Clocks;Energy efficiency;Industries;Mathematical 
+model;Optimization;Planning;PRISM model checker;cost optimization;discrete event 
+systems;priced timed automata},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497829&isnumber=7497815
+
+J. Komenda and F. Lin, "Modular supervisory control of networked discrete-event 
+systems," 2016 13th International Workshop on Discrete Event Systems (WODES), 
+Xi'an, 2016, pp. 85-90.
+doi: 10.1109/WODES.2016.7497830
+Abstract: In this paper, modular and more generally coordination supervisory 
+control of networked concurrent discrete-event systems (DES) is studied. We are 
+interested in comparison of monolithic control synthesis with modular control 
+synthesis if communication delays in both control and observation channels are 
+taken into account. It is shown that unlike standard DES framework, modular, and 
+more generally, coordination control can be more permissive than monolithic 
+control in some cases because of smaller communication delays in the local 
+systems.
+ keywords: {control system synthesis;discrete event systems;networked control 
+systems;communication delays;coordination control;coordination supervisory 
+control;local systems;modular control synthesis;modular supervisory 
+control;monolithic control synthesis;networked concurrent discrete event 
+systems;observation channels;standard DES 
+framework;Controllability;Delays;Discrete-event 
+systems;Generators;Gold;Observability;Supervisory control},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497830&isnumber=7497815
+
+R. Malik and M. Teixeira, "Modular supervisor synthesis for extended 
+finite-state machines subject to controllability," 2016 13th International 
+Workshop on Discrete Event Systems (WODES), Xi'an, 2016, pp. 91-96.
+doi: 10.1109/WODES.2016.7497831
+Abstract: This paper proposes an algorithm for the synthesis of modular 
+supervisors using extended finite-state machines, i.e., state machines with 
+variables and guards on the transitions. Synthesis is performed by iteratively 
+selecting components from a synchronous composition until a least restrictive 
+controllable solution is obtained. This method is usually faster and produces 
+smaller supervisors than standard monolithic synthesis, while offering the 
+modelling benefits of variables. An example of manufacturing system control 
+illustrates the approach.
+ keywords: {control system synthesis;controllability;finite state 
+machines;controllability;extended finite-state machines;least restrictive 
+controllable solution;modular supervisor synthesis;synchronous 
+composition;Automata;Complexity theory;Controllability;Cost 
+accounting;Silicon;Standards;Supervisory control},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497831&isnumber=7497815
+
+T. Jiao, Y. Gan, Guochun Xiao and W. M. Wonham, "Exploiting symmetry of state 
+tree structures for discrete-event systems with parallel components," 2016 13th 
+International Workshop on Discrete Event Systems (WODES), Xi'an, 2016, pp. 
+97-102.
+doi: 10.1109/WODES.2016.7497832
+Abstract: We consider discrete-event systems (DES) consisting of parallel arrays 
+of machines and buffers. The machines are divided into groups in each of which 
+the members have identical structure, i.e. same state set and isomorphic 
+transitions. In these systems, to avoid the underflow or overflow of the 
+buffers, the controller only needs the information of the total numbers of 
+components at each state and the numbers of workpieces in the buffers. By 
+exploiting the identical structure of each group, we extract such control 
+information from the control functions computed by the state tree structures 
+(STS) to generate abstract control functions. Thanks to the symmetry of the 
+system, we show that all controllable events relabeled to the same symbol share 
+an invariant abstract control function, which is independent of the total number 
+of machines, as long as the buffer sizes are fixed. The approach is illustrated 
+by two examples.
+ keywords: {discrete event systems;DES;STS;abstract control function 
+generation;buffer overflow avoidance;buffer underflow avoidance;discrete-event 
+systems;invariant abstract control function;parallel arrays;parallel 
+components;state tree structures;Automata;Conferences;Discrete-event 
+systems;Power capacitors;Software;Supervisory control},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497832&isnumber=7497815
+
+J. Komenda, T. Masopust and J. H. van Schuppen, "Control of an 
+engineering-structured multilevel discrete-event system," 2016 13th 
+International Workshop on Discrete Event Systems (WODES), Xi'an, 2016, pp. 
+103-108.
+doi: 10.1109/WODES.2016.7497833
+Abstract: Control of a multilevel system is developed for a discrete-event 
+system (DES) structured by an engineering model. In a multilevel system, each 
+subsystem has a set of children at the next-lower level and a unique parent at 
+the next-higher level. A coordinated multilevel DES is defined by the condition 
+that a parent also is involved in the interaction of each tuple of its children. 
+Control synthesis is carried out per subsystem. If the specification language is 
+conditionally decomposable, conditionally controllable, and conditionally normal 
+then there exists a set of supervisors such that the closed-loop system of the 
+multilevel system meets the specification. The complexity gain is considerable. 
+The examples of an MRI scanner and of a vehicle system illustrate the approach.
+ keywords: {closed loop systems;control system synthesis;discrete event 
+systems;DES;MRI scanner;closed-loop system;complexity gain;control 
+synthesis;engineering model;engineering-structured multilevel discrete-event 
+system;specification language;Computer architecture;Control 
+systems;Discrete-event systems;Indexes;Magnetic resonance imaging;Multilevel 
+systems;Vehicles},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497833&isnumber=7497815
+
+J. Benhamron and J. G. Thistle, "Graph transformation as a modelling framework 
+for supervisory control," 2016 13th International Workshop on Discrete Event 
+Systems (WODES), Xi'an, 2016, pp. 109-116.
+doi: 10.1109/WODES.2016.7497834
+Abstract: To make the techniques of supervisory control theory more accessible 
+to non-experts, an intuitive and user-friendly modelling approach is needed to 
+dissociate the modeller from the abstract automaton models used within the 
+theory. This paper attempts to resolve this issue by presenting a modelling 
+framework based upon graph rewriting, in which so-called implicit automaton 
+models are used to generate automata that can be used as input to supervisory 
+synthesis algorithms. It is demonstrated how the proposed modelling approach can 
+be supported by a graph transformation tool such as GROOVE which implements the 
+graph rewriting modelling paradigm.
+ keywords: {control system synthesis;graph theory;abstract automaton 
+models;graph rewriting;graph transformation;implicit automaton model;supervisory 
+control modelling framework;supervisory synthesis algorithms;Analytical 
+models;Automata;Computational modeling;Graph theory;Sections;Software 
+tools;Supervisory control;Graph transformation systems (GTS);automata;category 
+theory;modeling},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497834&isnumber=7497815
+
+J. N. Vilela and P. N. Pena, "Supervisor abstraction to deal with planning 
+problems in manufacturing systems," 2016 13th International Workshop on Discrete 
+Event Systems (WODES), Xi'an, 2016, pp. 117-122.
+doi: 10.1109/WODES.2016.7497835
+Abstract: Finite-state automata and Supervisory Control Theory have been used to 
+model and solve job-shop scheduling and planning problems. However, even if it 
+seems to be easier to work with DFA and SCT, this solution will suffer with “the 
+curse of dimensionality”, which can cause state explosion when the system 
+becomes bigger and more complex. This paper presents a set of sufficient 
+conditions that allow to work with abstractions of the supervisor, instead of 
+the supervisor itself, as the search universe to solve a planning problem. Such 
+abstraction is the natural projection of the supervisor into the set of 
+controllable events and it should satisfy the observer property. This 
+abstraction is smaller then the original automaton, which reduces the search 
+universe for the optimization algorithms. Also, we present a set of conditions 
+for the model of the system and specifications that will results on the 
+satisfaction of the observer property.
+ keywords: {controllability;finite automata;job shop scheduling;manufacturing 
+systems;observers;optimisation;planning;process control;search problems;set 
+theory;controllable events;finite-state automata;job-shop 
+scheduling;manufacturing systems;observer property;optimization 
+algorithms;planning problems;search problem;sufficient conditions;supervisor 
+abstractions;Automata;Job shop scheduling;Observers;Planning;Silicon;Supervisory 
+control},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497835&isnumber=7497815
+
+Y. Peng, M. C. Fu and J. Q. Hu, "Estimating distribution sensitivity using 
+generalized likelihood ratio method," 2016 13th International Workshop on 
+Discrete Event Systems (WODES), Xi'an, 2016, pp. 123-128.
+doi: 10.1109/WODES.2016.7497836
+Abstract: We propose a generalized likelihood ratio estimator for the 
+distribution sensitivity in a general framework. Applications on quantile 
+sensitivity, sensitivity of distortion risk measure, and gradient-based maximum 
+likelihood estimation are put together under a single umbrella, and addressed 
+uniformly by the proposed estimator. Numerical experiments substantiate the 
+efficiency of the new method.
+ keywords: {gradient methods;maximum likelihood estimation;sensitivity 
+analysis;distortion risk measure sensitivity;distribution 
+sensitivity;generalized likelihood ratio estimator;generalized likelihood ratio 
+method;gradient-based maximum likelihood estimation;quantile 
+sensitivity;Distortion;Distortion measurement;Maximum likelihood 
+estimation;Perturbation methods;Random variables;Sensitivity;Stochastic 
+processes;distribution sensitivity;likelihood ratio method;perturbation 
+analysis;simulation;stochastic derivative estimation},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497836&isnumber=7497815
+
+J. Mao and C. G. Cassandras, "Solving a class of discrete event simulation-based 
+optimization problems using “optimality in probability”," 2016 13th 
+International Workshop on Discrete Event Systems (WODES), Xi'an, 2016, pp. 
+129-134.
+doi: 10.1109/WODES.2016.7497837
+Abstract: We approach a class of discrete event simulation-based optimization 
+problems using optimality in probability, an approach which yields what is 
+termed a “champion solution”. Compared to the traditional optimality in 
+expectation, this approach favors the solution whose actual performance is more 
+likely better than that of any other solution; this is an effective alternative 
+to the traditional optimality sense, especially when facing a dynamic and 
+nonstationary environment. Moreover, using optimality in probability is 
+computationally promising for a class of discrete event simulation-based 
+optimization problems, since it can reduce computational complexity by orders of 
+magnitude compared to general simulation-based optimization methods using 
+optimality in expectation. Accordingly, we have developed an “Omega Median 
+Algorithm” in order to effectively obtain the champion solution and to fully 
+utilize the efficiency of well-developed off-line algorithms to further 
+facilitate timely decision making. An inventory control problem with 
+nonstationary demand is included to illustrate and interpret the use of the 
+Omega Median Algorithm, whose performance is tested using simulations.
+ keywords: {computational complexity;decision making;discrete event 
+simulation;optimisation;probability;champion solution;computational 
+complexity;decision making;discrete event simulation-based optimization 
+problems;general simulation-based optimization methods;inventory control 
+problem;nonstationary demand;off-line algorithms;omega median 
+algorithm;optimality 
+sense;optimality-in-expectation;optimality-in-probability;Complexity 
+theory;Decision making;Games;Heuristic algorithms;Inventory control;Optimization 
+methods;Nonstationary Inventory Control;Optimality in 
+Probability;Simulation-based Optimization},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497837&isnumber=7497815
+
+F. Vázquez-Abad and S. Bernabel, "Stochastic path optimization for robotic bees 
+using cloud computing," 2016 13th International Workshop on Discrete Event 
+Systems (WODES), Xi'an, 2016, pp. 135-140.
+doi: 10.1109/WODES.2016.7497838
+Abstract: We study the problem of dynamic routing of robotic bees towards the 
+hive, with the intended purpose of minimizing the time it takes for all the bees 
+to arrive at the destination. Due to uncertainty in position measurements, the 
+stochastic problem cannot ensure collision-free paths. We study the effects that 
+the algorithm parameters have in reducing the computational complexity and 
+expected number of collisions. The dynamic path allocation assumes signals are 
+received every ε units of time. We provide a weak convergence proof that the 
+stochastic dynamic allocation converges to the optimal deterministic path when ε 
+→ 0. Next we explore via experimentation how the various algorithm parameters 
+affect the overall performance. A k-nearest neighbors strategy is implemented to 
+lessen the need for small step size ε and safety parameter. Δ. In this manner we 
+achieve a faster completion time, reduce collisions and computational 
+complexity.
+ keywords: {cloud computing;collision avoidance;computational complexity;control 
+engineering computing;mobile robots;stochastic programming;cloud 
+computing;collision-free paths;computational complexity;dynamic path 
+allocation;dynamic routing;k-nearest neighbors strategy;optimal deterministic 
+path;position measurements;robotic bees;stochastic dynamic allocation;stochastic 
+path optimization;stochastic problem;time minimization;weak convergence 
+proof;Clustering algorithms;Collision avoidance;Optimization;Resource 
+management;Robots;Safety;Stochastic processes},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497838&isnumber=7497815
+
+X. Chen, Y. Wardi and S. Yalamanchili, "IPA in the loop: Control design for 
+throughput regulation in computer processors," 2016 13th International Workshop 
+on Discrete Event Systems (WODES), Xi'an, 2016, pp. 141-146.
+doi: 10.1109/WODES.2016.7497839
+Abstract: A new technique for performance regulation in event-driven systems, 
+recently proposed by the authors, consists of an adaptive-gain integral control. 
+The gain is adjusted in the control loop by a real-time estimation of the 
+derivative of the plant-function with respect to the control input. This 
+estimation is carried out by Infinitesimal Perturbation Analysis (IPA). The main 
+motivation comes from applications to throughput regulation in computer 
+processors, where to-date, the testing of the proposed control technique has 
+been assessed by simulation. The purpose of this paper is to report on its 
+implementation on Intel's Haswell microprocessor, and compare its performance to 
+that obtained from cycle-level, full system simulation environment. The 
+intrinsic contribution of the paper to the Workshop on Discrete Event Systems is 
+in describing the process of taking an IPA-based design and simulation to a 
+concrete implementation, thereby providing a bridge between theory and 
+applications.
+ keywords: {adaptive control;control engineering computing;control system 
+synthesis;estimation theory;microprocessor chips;perturbation techniques;Haswell 
+microprocessor;IPA-based design;adaptive-gain integral control;computer 
+processor;event-driven system;infinitesimal perturbation 
+analysis;plant-function;throughput regulation;Clocks;Computational 
+modeling;Computer architecture;Computers;Out of order;Real-time 
+systems;Throughput},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497839&isnumber=7497815
+
+S. Ware and R. Su, "Incremental scheduling of discrete event systems," 2016 13th 
+International Workshop on Discrete Event Systems (WODES), Xi'an, 2016, pp. 
+147-152.
+doi: 10.1109/WODES.2016.7497840
+Abstract: A common problem in the field of robotics is how to coordinate the 
+motion of multiple robots. As this problem is PSPACE-complete it is generally 
+solved by incomplete algorithms which are computationally tractable but cannot 
+guarantee that a solution will be found even if a solution exists. In this work 
+we use the coordination method of prioritized planning in a (Discrete Event 
+Systems) DES context. We develop and implement an algorithm for using 
+prioritized planning in DES. The algorithm is showned to be an improvement over 
+the standard prioritized planning approach in terms of being capable of finding 
+a valid solution to the multi-robot motion-planning problem in a greater 
+percentage of instances.
+ keywords: {control engineering computing;discrete event systems;mobile 
+robots;motion control;multi-robot systems;path 
+planning;scheduling;DES;PSPACE-complete;discrete event systems;incremental 
+scheduling;motion control;motion planning;multiple robots;prioritized 
+planning;Algorithm design and analysis;Automata;Collision 
+avoidance;Context;Planning;Robot kinematics},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497840&isnumber=7497815
+
+J. Berkhout, "Google's PageRank algorithm for ranking nodes in general 
+networks," 2016 13th International Workshop on Discrete Event Systems (WODES), 
+Xi'an, 2016, pp. 153-158.
+doi: 10.1109/WODES.2016.7497841
+Abstract: This paper extends the random surfer approach of Google's PageRank 
+algorithm to general finite Markov chains that may consist of several ergodic 
+classes and possible transient states. We will introduce the new concept of an 
+extended ergodic projector of a Markov chain and we will show how the extended 
+ergodic projector allows for intuitive better ranking of transient states. 
+Numerical examples are provided to illustrate the effect of this new ranking 
+approach.
+ keywords: {Markov processes;network theory (graphs);search engines;Google 
+PageRank algorithm;ergodic classes;extended ergodic projector;general finite 
+Markov chains;general networks;random surfer approach;ranking approach;ranking 
+nodes;transient states;Convergence;Damping;Google;Limiting;Markov 
+processes;Social network services;Transient analysis;Google PageRank;Markov 
+multi-chains;random surfer;transient states},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497841&isnumber=7497815
+
+J. A. Fraustro, J. Ruiz-León, C. R. Vázquez and A. Ramírez-Treviño, "Structural 
+fault diagnosis in Timed Continuous Petri Nets," 2016 13th International 
+Workshop on Discrete Event Systems (WODES), Xi'an, 2016, pp. 159-164.
+doi: 10.1109/WODES.2016.7497842
+Abstract: This work addresses the fault detection and isolation problem in 
+systems modeled by Timed Continuous Petri Nets (TCPN) under the infinite server 
+semantics. The proposed approach assumes that the normal behavior TCPN model is 
+available and partially observed (i.e., only the marking of a subset of places 
+is available). Potential product rejection faults and speed reduction faults are 
+represented by transitions, whose firing characterize the occurrence of the 
+corresponding faults. Based on this model, a novel structural characterization 
+of diagnosable TCPN is presented. This characterization is based on the 
+structural observability of places belonging to directed paths, between 
+measurable places, containing information about the firing of the fault 
+transitions. In order to isolate faults, a diagnoser is also proposed in this 
+work. The diagnoser is based on a set of robust reduced order finite-time 
+observers. The faults are isolated using internal signals in the observers that 
+are different from zero when a specific fault occurs.
+ keywords: {Petri nets;fault diagnosis;observability;observers;reliability 
+theory;TCPN;directed paths;fault detection and isolation problem;fault 
+transitions;infinite server semantics;product rejection faults;robust reduced 
+order finite-time observers;speed reduction faults;structural 
+characterization;structural fault diagnosis;structural observability;timed 
+continuous Petri nets;Fault detection;Manufacturing systems;Mathematical 
+model;Observability;Observers;Petri nets;Diagnosis and Fault Detection;Hybrid 
+Systems;Petri Nets},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497842&isnumber=7497815
+
+A. Al-Ajeli and B. Bordbar, "Fourier-Motzkin method for failure diagnosis in 
+Petri Net models of discrete event systems," 2016 13th International Workshop on 
+Discrete Event Systems (WODES), Xi'an, 2016, pp. 165-170.
+doi: 10.1109/WODES.2016.7497843
+Abstract: This paper presents a new technique for failure diagnosis in partially 
+observable discrete event systems modelled as Petri nets. In this new technique 
+we adopt Integer Fourier-Motzkin Elimination (IFME) method. We start with a 
+Petri net and produce the state equations. The state equations are a set of 
+integer valued inequalities in variables that represent number of firing of 
+transitions. Occurrences of failure can also be expressed by inequalities. Then 
+we extend the set of inequalities obtained from the state equations to two new 
+sets. The first is created from adding the inequality for failure. The second is 
+created from adding the negation of the inequality for failure. Applying the 
+IFME method to the two resulting sets of inequalities, the variables 
+corresponding to unobservable transitions will be eliminated. Then we prove that 
+for acyclic Petri nets, the reduced set of inequalities after the elimination 
+can be used to diagnose failures.
+ keywords: {Fourier series;Petri nets;discrete event systems;IFME method;Petri 
+net model;acyclic Petri nets;failure diagnosis;integer Fourier-Motzkin 
+elimination;integer valued inequalities;partially observable discrete event 
+system;state equation;Artificial neural networks;Automata;Computer science;Cost 
+accounting;Discrete-event systems;Mathematical model;Petri nets},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497843&isnumber=7497815
+
+B. Li, M. Khlif-Bouassida and A. Toguyéni, "Diagnosis and diagnosability 
+analysis of labeled Petri nets using reduction rules," 2016 13th International 
+Workshop on Discrete Event Systems (WODES), Xi'an, 2016, pp. 171-176.
+doi: 10.1109/WODES.2016.7497844
+Abstract: This paper addresses the combinatorial explosion problem for 
+diagnosability analysis of discrete event systems (DESs). Some reduction rules 
+are given to simplify a priori the labeled Petri net (LPN) model before 
+analyzing the diagnosability. When the conditions of these reduction rules are 
+satisfied, some regular unobservable transitions and some places, that do not 
+contain necessary information for the diagnosability analysis, are removed. It 
+is proved the diagnosability of the initial LPN is preserved by using these 
+reduction rules. In this paper, the “diagnoser” approach is used to compare the 
+diagnosability analysis of the initial LPN model and that of the reduced LPN 
+model. By using reduction rules, the memory cost for diagnosability analysis is 
+reduced.
+ keywords: {Petri nets;discrete event systems;DES;combinatorial explosion 
+problem;diagnoser approach;discrete event systems;initial LPN model;labeled 
+Petri net diagnosability analysis;labeled Petri net diagnosis;memory cost 
+reduction;reduced LPN model;reduction rules;regular unobservable 
+transitions;Analytical models;Complex systems;Discrete-event 
+systems;Explosions;Fault diagnosis;Mathematical model;Petri nets;Diagnosability 
+analysis;Discrete event system;Fault diagnosis;Labeled Petri net;Reduction 
+rules},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497844&isnumber=7497815
+
+M. Ghazel and B. Liu, "A customizable railway benchmark to deal with fault 
+diagnosis issues in DES," 2016 13th International Workshop on Discrete Event 
+Systems (WODES), Xi'an, 2016, pp. 177-182.
+doi: 10.1109/WODES.2016.7497845
+Abstract: This paper aims to develop a suite of customizable Petri net 
+benchmarks to deal with various issues pertaining to fault diagnosis in discrete 
+event systems. As reported in previous studies, the existing benchmarks 
+generally characterize some of the numerous issues concerning fault diagnosis. 
+This satisfies a specific case study, whereas it may constitute a barrier when 
+performing comparative analysis between different approaches. In order to bridge 
+this gap, we propose to develop a suite of benchmarks based on the same case 
+study, while covering a wide spectrum of diagnosis issues, namely diagnosability 
+according to the original definition, K-diagnosability, diagnosability under 
+fairness conditions, of intermittent faults and in timed context. The benchmark 
+elaborated, based on a level crossing case study, can be enlarged to deal with 
+the combinatorial explosion problem. In addition, it can be extended to 
+integrate additional features. A software tool is provided to generate 
+benchmarks, according to the target issues one seeks to tackle, and the desired 
+size of the model.
+ keywords: {Petri nets;discrete event systems;fault diagnosis;rail 
+traffic;DES;K-diagnosability;combinatorial explosion problem;customizable Petri 
+net benchmarks;customizable railway benchmark;discrete event systems;fairness 
+condition;fault diagnosis;level crossing case study;Benchmark 
+testing;Discrete-event systems;Fault diagnosis;Petri nets;Rail 
+transportation;Roads;Sensors},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497845&isnumber=7497815
+
+T. Soleymani, S. Hirche and J. S. Baras, "Optimal self-driven sampling for 
+estimation based on value of information," 2016 13th International Workshop on 
+Discrete Event Systems (WODES), Xi'an, 2016, pp. 183-188.
+doi: 10.1109/WODES.2016.7497846
+Abstract: Consider an observer (reporter) who desires to inform optimally a 
+distant agent regarding a physical stochastic process in the environment while 
+the directed communication of the observer to the agent has a price. We define a 
+metric, from a task oriented perspective, for the information transferred from 
+the observer to the agent. We develop a framework for optimizing an augmented 
+cost function which is a convex combination of the transferred information and 
+the paid price over a finite horizon. We suppose that the decision making takes 
+place inside a source encoder, and that the sampling schedule is the decision 
+variable. Moreover, we assume that no measurement at the current time is 
+available to the observer for the decision making. We derive the optimal 
+self-driven sampling policy using dynamic programming, and we show that this 
+policy corresponds to a self-driven sampling policy based on a quantity that is 
+in fact the value of information at each time instant. In addition, we use a 
+semi-definite programming relaxation to provide a suboptimal sampling policy. 
+Numerical and simulation results are presented for a simple unstable system.
+ keywords: {convex programming;decision making;dynamic programming;estimation 
+theory;information theory;sampling methods;stochastic processes;augmented cost 
+function;convex combination;decision making;directed communication;dynamic 
+programming;estimation;information transfer;optimal self-driven 
+sampling;physical stochastic process;sampling schedule;semidefinite 
+programming;task oriented perspective;value of information;Cost function;Current 
+measurement;Decision making;Observers;Schedules;Time measurement;Approximate 
+Dynamic Programming;Estimation;Self-Driven Sampling;Value of Information},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497846&isnumber=7497815
+
+S. Ebner and S. Trimpe, "Communication rate analysis for event-based state 
+estimation," 2016 13th International Workshop on Discrete Event Systems (WODES), 
+Xi'an, 2016, pp. 189-196.
+doi: 10.1109/WODES.2016.7497847
+Abstract: The average communication in a typical event-based state estimation 
+scenario is analyzed analytically and in robot experiments. A sender observes a 
+linear Gaussian process and sporadically transmits mean and variance to a remote 
+estimator according to an event-based protocol. By exploiting the event-based 
+architecture, an expression for the average communication rate is obtained, 
+which is useful for numerical computation. In addition, approximate closed-form 
+expressions for the steady-state rate (given in terms of problem and design 
+parameters) are derived. The analytic results for the communication rate are 
+verified in experiments of a one-dimensional robot link.
+ keywords: {Gaussian processes;robots;state estimation;statistical 
+analysis;approximate closed-form expression;communication rate 
+analysis;event-based protocol;event-based state estimation;linear Gaussian 
+process;mean;one-dimensional robot link;variance;Closed-form solutions;Computer 
+architecture;Receivers;Robots;State estimation;Steady-state},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497847&isnumber=7497815
+
+Y. Khazaeni and C. G. Cassandras, "Event excitation for event-driven control and 
+optimization of multi-agent systems," 2016 13th International Workshop on 
+Discrete Event Systems (WODES), Xi'an, 2016, pp. 197-202.
+doi: 10.1109/WODES.2016.7497848
+Abstract: We consider event-driven methods in a general framework for the 
+control and optimization of multi-agent systems, viewing them as stochastic 
+hybrid systems. Such systems often have feasible realizations in which the 
+events needed to excite an on-line event-driven controller cannot occur, 
+rendering the use of such controllers ineffective. We show that this commonly 
+happens in environments which contain discrete points of interest which the 
+agents must visit. To address this problem in event-driven gradient-based 
+optimization problems, we propose a new metric for the objective function which 
+creates a potential field guaranteeing non-zero gradient values when no events 
+are present and which results in eventual event excitation. We apply this 
+approach to the class of cooperative multi-agent data collection problems using 
+the event-driven Infinitesimal Perturbation Analysis (IPA) methodology and 
+include numerical examples illustrating its effectiveness.
+ keywords: {gradient methods;multi-robot systems;optimisation;perturbation 
+techniques;stochastic systems;IPA methodology;cooperative multiagent data 
+collection problems;event excitation;event-driven control;event-driven 
+gradient-based optimization problems;event-driven ifinitesimal perturbation 
+analysis;event-driven methods;multiagent systems;nonzero gradient 
+values;stochastic hybrid systems;Dynamics;Linear 
+programming;Measurement;Multi-agent systems;Optimization;Space 
+missions;Trajectory},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497848&isnumber=7497815
+
+B. Demirel, V. Gupta, D. E. Quevedo and M. Johansson, "Threshold optimization of 
+event-triggered multi-loop control systems," 2016 13th International Workshop on 
+Discrete Event Systems (WODES), Xi'an, 2016, pp. 203-210.
+doi: 10.1109/WODES.2016.7497849
+Abstract: This paper considers multiple linear stochastic control systems whose 
+feedback loops are closed over a shared communication medium. A threshold-based 
+event-triggering rule is used to transmit control commands from the controllers 
+to the actuators, and network access is arbitrated using a static priority 
+mechanism. Under these conditions, we study dead-beat control laws and compute 
+the expected linear-quadratic loss of the closed-loop system as a function of 
+the event-thresholds of the individual loops. Also, we present analytical 
+expressions that quantify the trade-off between the communication cost and the 
+control performance of such event-triggered control systems. Using a 
+multi-dimensional exhaustive search method, we determine the set of event 
+thresholds that attains the minimal expected linear-quadratic loss of the 
+closed-loop systems. Simulation studies highlight the trade-off between the 
+communication and control cost.
+ keywords: {closed loop systems;feedback;linear quadratic control;linear 
+systems;optimisation;search problems;stochastic systems;closed-loop 
+system;dead-beat control laws;event thresholds;event-triggered multiloop control 
+systems;feedback loops;individual loop event-thresholds;linear stochastic 
+control systems;linear-quadratic loss;multidimensional exhaustive search 
+method;network access;shared communication medium;static priority 
+mechanism;threshold optimization;threshold-based event-triggering 
+rule;Actuators;Communication channels;Gaussian distribution;Markov 
+processes;Process control;Random variables;Deadbeat control;Event-triggered 
+control;Shared communication channel},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497849&isnumber=7497815
+
+D. Maity and J. S. Baras, "Strategies for two-player differential games with 
+costly information," 2016 13th International Workshop on Discrete Event Systems 
+(WODES), Xi'an, 2016, pp. 211-216.
+doi: 10.1109/WODES.2016.7497850
+Abstract: In this work, a two players nonzero-sum differential game is 
+considered, where one player tries to minimize some predefined cost and the 
+other tries to maximize the same. The game is described by a stochastic 
+differential system and the actions of the players serve as the control inputs 
+to the dynamical system. The cost being a function of the actions chosen by the 
+players and the state of the dynamical system, the players aim to control the 
+state in order to optimize the cost functional. However in this problem the 
+players do not have the access to the states for every time, rather the states 
+are available at discrete time instances after some finite costs are paid by the 
+players. The inclusion of the information-cost makes the structure of the cost 
+functional non-classical. The work presents the strategies for the players under 
+no-cost information access as well as under costly information access. Explicit 
+time instances for the information access are also derived by solving certain 
+finite dimensional optimization problems.
+ keywords: {game theory;optimisation;cost functional;costly information 
+access;finite dimensional optimization problems;information-cost;no-cost 
+information access;stochastic differential system;two-player differential 
+games;Closed-form solutions;Cost function;Games;Mathematical model;Nash 
+equilibrium},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497850&isnumber=7497815
+
+C. E. V. Nunes, M. V. Moreira, M. V. S. Alves and J. C. Basilio, "Network 
+codiagnosability of Discrete-Event Systems subject to event communication 
+delays," 2016 13th International Workshop on Discrete Event Systems (WODES), 
+Xi'an, 2016, pp. 217-223.
+doi: 10.1109/WODES.2016.7497851
+Abstract: Failure diagnosis is a crucial task in modern industrial systems, and 
+several works in the literature address this problem by modeling the system as a 
+Discrete-Event System. Most of them assumes perfect communication between 
+sensors and diagnosers, i:e:, no loss of observation of events, or event 
+communication delays between the measurement sites and the diagnosers. However, 
+industrial systems can be large and physically distributed. In these cases, 
+communication networks can be used to provide an efficient way to establish 
+communication between devices with a view to diagnosing failure occurrence. The 
+use of networks can introduce delays in the communication of event occurrences 
+to local diagnosers, leading to an incorrect observation of the order of 
+occurrence of events generated by the system and, consequently, an incorrect 
+diagnosis decision by the local diagnoser. In this paper, we address the problem 
+of decentralized diagnosis of networked Discrete-Event Systems subject to event 
+communication delays, and we introduce the definition of network 
+codiagnosability of the language of a system subject to event communication 
+delays. We also propose an algorithm to verify this property.
+ keywords: {delays;discrete event systems;fault diagnosis;fault tolerant 
+control;networked control systems;communication networks;decentralized 
+diagnosis;diagnosis decision;event communication delays;failure 
+diagnosis;failure occurrence;industrial systems;local diagnoser;network 
+codiagnosability;networked discrete-event systems;system 
+modeling;Automata;Communication channels;Communication 
+networks;Delays;Discrete-event systems;Loss measurement;Protocols},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497851&isnumber=7497815
+
+S. Takai and R. Kumar, "Delay bound of inference-based decentralized diagnosis 
+in discrete event systems," 2016 13th International Workshop on Discrete Event 
+Systems (WODES), Xi'an, 2016, pp. 224-229.
+doi: 10.1109/WODES.2016.7497852
+Abstract: We previously introduced an inference-based decentralized diagnosis 
+framework for discrete event systems, where inferencing over the ambiguities of 
+the self and the others is used to issue local decisions, and a global decision 
+is taken to be the one with the least ambiguity level. In this setting, we 
+introduced the notion of N-inference diagnosability to characterize the 
+detection of any failure within a bounded delay, using at most N-levels of 
+inferencing, and subsuming both disjunctive and conjunctive ways of decision 
+fusions. In this paper, we compute the delay bound within which the occurrence 
+of any failure can be detected for an N-inference diagnosable system. Computing 
+the delay bound is important to execute mitigation actions in a timely manner, 
+and is a figure of merit of a diagnosis scheme.
+ keywords: {control engineering computing;discrete event systems;inference 
+mechanisms;N-inference diagnosability;N-inference diagnosable system;decision 
+fusion;delay bound;discrete event system;inference-based decentralized 
+diagnosis;Automata;Decision making;Delays;Discrete-event systems;Electronic 
+mail;Sensors;System recovery},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497852&isnumber=7497815
+
+E. Fabre, L. Hélouët, E. Lefaucheux and H. Marchand, "Diagnosability of 
+repairable faults," 2016 13th International Workshop on Discrete Event Systems 
+(WODES), Xi'an, 2016, pp. 230-236.
+doi: 10.1109/WODES.2016.7497853
+Abstract: The diagnosis problem for discrete event systems consists in deciding 
+whether some fault event occurred or not in the system, given partial 
+observations on the run of that system. Diagnosability checks whether a correct 
+diagnosis can be issued in bounded time after a fault, for all faulty runs of 
+that system. This problem appeared two decades ago and numerous facets of it 
+have been explored, mostly for permanent faults. It is known for example that 
+diagnosability of a system can be checked in polynomial time, while the 
+construction of a diagnoser is exponential. The present paper examines the case 
+of transient faults, that can appear and be repaired. Diagnosability in this 
+setting means that the occurrence of a fault should always be detected in 
+bounded time, but also before the fault is repaired. Checking this notion of 
+diagnosability is proved to be PSPACE-complete. It is also shown that faults can 
+be reliably counted provided the system is diagnosable for faults and for 
+repairs.
+ keywords: {computational complexity;discrete event systems;fault 
+diagnosis;reliability theory;PSPACE-complete;bounded time;diagnoser 
+construction;diagnosis problem;discrete event systems;fault event 
+occurrence;fault repair;faulty runs;permanent faults;polynomial time;repairable 
+faults diagnosability;system diagnosability;transient 
+faults;Automata;Discrete-event systems;Maintenance 
+engineering;Observers;Standards;Transient analysis;Uncertainty},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497853&isnumber=7497815
+
+A. Boussif, B. Liu and M. Ghazel, "A twin-plant based approach for 
+diagnosability analysis of intermittent failures," 2016 13th International 
+Workshop on Discrete Event Systems (WODES), Xi'an, 2016, pp. 237-244.
+doi: 10.1109/WODES.2016.7497854
+Abstract: In this paper, an approach to analyze diagnosability of intermittent 
+failures in discrete-event systems (DESs) is developed. The analysis is 
+performed based on the twin-plant structure generated from the input model, 
+which is a finite state automaton (FSA), where states are partitioned according 
+to the predefined failure conditions of the system. Two definitions of 
+diagnosability, regarding the occurrence of failures and their normalization 
+(i.e., the disappearance of failures) are discussed. Necessary and sufficient 
+conditions for diagnosability are developed and proved. Then, an incremental 
+algorithm to actually check such conditions is elaborated. Finally, a benchmark 
+is given to both illustrate the various concepts discussed and assess the 
+efficiency of the proposed approach.
+ keywords: {automata theory;discrete event systems;fault diagnosis;finite state 
+machines;DES;FSA;diagnosability analysis;discrete event systems;finite state 
+automaton;incremental algorithm;input model;intermittent failures;twin-plant 
+based approach;twin-plant structure;Analytical models;Automata;Benchmark 
+testing;Complexity theory;Delays;Discrete-event systems;Fault diagnosis},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497854&isnumber=7497815
+
+M. Noori-Hosseini and B. Lennartson, "Diagnosability verification using 
+compositional branching bisimulation," 2016 13th International Workshop on 
+Discrete Event Systems (WODES), Xi'an, 2016, pp. 245-250.
+doi: 10.1109/WODES.2016.7497855
+Abstract: This paper presents an efficient diagnosability verification 
+technique, based on a general abstraction approach. More specifically, branching 
+bisimulation including state labels with explicit divergence (BBSD) is defined. 
+This bisimulation preserves the temporal logic property that verifies 
+diagnosability. Based on a proposed BBSD algorithm, compositional abstraction 
+for modular diagnosability verification is shown to offer a significant state 
+space reduction in comparison to state-of-the-art techniques. This is 
+illustrated by verifying non-diagnosability analytically for a set of 
+synchronized components, where the abstracted solution is independent of the 
+number of components and the number of observable events.
+ keywords: {formal verification;temporal logic;BBSD;branching bisimulation 
+including state labels with explicit divergence;compositional branching 
+bisimulation;diagnosability verification technique;general abstraction 
+approach;modular diagnosability verification;observable events;state space 
+reduction;temporal logic property;Automata;Complexity theory;Computational 
+modeling;Discrete-event systems;Model checking;Radio frequency;Synchronization},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497855&isnumber=7497815
+
+M. Schuh and J. Lunze, "Fault-tolerant control of deterministic I/O automata 
+with ambiguous diagnostic result," 2016 13th International Workshop on Discrete 
+Event Systems (WODES), Xi'an, 2016, pp. 251-257.
+doi: 10.1109/WODES.2016.7497856
+Abstract: A method for the active fault-tolerant control of discrete event 
+systems modeled by deterministic Input/Output automata is proposed that can be 
+applied if the diagnostic result consists of a set of fault candidates rather 
+than a single fault. Based on the ambiguous diagnostic result a common model of 
+the faulty plant is constructed that describes the identical part of the 
+behavior of the plant under all fault candidates. Then the reconfiguration of 
+the controller is performed based on this common model. It is proved that the 
+resulting reconfigured tracking controller steers the faulty plant into the 
+desired final state, no matter which fault actually occurred.
+ keywords: {deterministic automata;discrete event systems;fault tolerant 
+control;active fault-tolerant control;ambiguous diagnostic result;deterministic 
+I/O automata;deterministic input-output automata;discrete event 
+system;reconfigured tracking controller;Automata;Discrete-event systems;Fault 
+tolerance;Fault tolerant systems;Planning;Tracking loops;Trajectory},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497856&isnumber=7497815
+
+D. You, S. Wang and C. Seatzu, "A new linear constraint transformation approach 
+for Petri nets with uncontrollable transitions," 2016 13th International 
+Workshop on Discrete Event Systems (WODES), Xi'an, 2016, pp. 258-263.
+doi: 10.1109/WODES.2016.7497857
+Abstract: This work focuses on the problem of providing a linear algebraic 
+characterization of the admissible marking set relative to a Petri net with 
+uncontrollable transitions, subject to a linear constraint. More specifically, 
+given a linear constraint that limits the number of tokens in one place, an 
+algorithm is proposed to provide an approximation of the admissible marking set 
+in terms of a disjunction of transformed linear constraints. The optimality of 
+the solution is guaranteed provided that certain conditions are satisfied during 
+the intermediate steps of the iterative approach.
+ keywords: {Petri nets;discrete event systems;set theory;DES;Petri 
+nets;admissible marking set approximation;discrete event system;iterative 
+approach;linear algebraic characterization;linear constraint 
+transformation;uncontrollable transitions;Fires;Firing;Iterative 
+methods;Law;Monitoring;Petri nets;Discrete event systems;Petri nets;equivalent 
+transformation;linear constraints},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497857&isnumber=7497815
+
+Y. Yang and H. Hu, "Backward conflict free systems with resources and their 
+distributed control using Petri nets," 2016 13th International Workshop on 
+Discrete Event Systems (WODES), Xi'an, 2016, pp. 264-271.
+doi: 10.1109/WODES.2016.7497858
+Abstract: One of the major concerns facing the modern engineering community is 
+the development of efficient deadlock control policies for manufacturing 
+systems, primarily because of the non-tractability and non-scalability of most 
+existing control policies. Aiming to bring all active process instances to 
+completion, this paper focuses on distributed control of systems integrating 
+assembly operations with flexible routes. Each step's execution depends on the 
+search of a feasible event sequence, leading the currently-active process 
+instance from its current place to its nearest global critical place. In the 
+context of this search, feedback information on the current resource allocation 
+status, combined with information about future process resource requirements, 
+are used to keep the currently-active process instance away from deadlock 
+states. As we shall see in the following, such an on-line and real-time 
+predictive control policy makes improvements on many perspectives such as 
+computational complexity and system performance.
+ keywords: {Petri nets;distributed control;manufacturing systems;predictive 
+control;Petri nets;backward conflict free systems;computational 
+complexity;deadlock control policies;deadlock states;distributed 
+control;engineering community;event sequence;manufacturing systems;predictive 
+control policy;process instance;Lead;Radio frequency;Weaving},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497858&isnumber=7497815
+
+H. Liu, W. Wu, H. Su and Hongyong Yang, "A polynomial complexity deadlock 
+avoidance method for a class of flexible manufacturing systems," 2016 13th 
+International Workshop on Discrete Event Systems (WODES), Xi'an, 2016, pp. 
+272-277.
+doi: 10.1109/WODES.2016.7497859
+Abstract: Computational complexity is one of most important criteria in 
+evaluating the performance of deadlock control methods. Based on Petri net 
+models, a polynomial deadlock avoidance method is addressed for a class of 
+flexible manufacturing systems (FMSs) with key resources. It is first proved 
+that there are three kinds of reachable markings in these FMSs: safe ones, 
+deadlock, and secondary deadlock. Second, an algorithm with polynomial 
+complexity to determine the safety of a new marking resulting from a safe one is 
+presented. It adopts a one-step look-ahead method and two-step look-ahead one to 
+prohibit the firings of transitions that result in deadlock and secondary one, 
+respectively. Thus, a polynomial deadlock avoidance policy for a class of FMSs 
+with key resources is established. An illustrative example is provided to 
+demonstrate the efficiency of the proposed method.
+ keywords: {Petri nets;computer aided manufacturing;flexible manufacturing 
+systems;FMS;Petri net model;deadlock control;flexible manufacturing 
+system;polynomial complexity deadlock avoidance;Complexity 
+theory;Firing;Flexible manufacturing systems;Petri nets;Resource 
+management;Safety;System recovery},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497859&isnumber=7497815
+
+G. Desirena-López, C. R. Vázquez, J. L. Briz, A. Ramírez-Treviño and D. 
+Gómez-Gutiérrez, "On-line scheduling in multiprocessor systems based on 
+continuous control using Timed Continuous Petri Nets," 2016 13th International 
+Workshop on Discrete Event Systems (WODES), Xi'an, 2016, pp. 278-283.
+doi: 10.1109/WODES.2016.7497860
+Abstract: This work presents a fluid-time scheduler based on a sliding mode 
+controller where the sliding surface is related to fluid task executions. The 
+scheduler is applied to a model of tasks and CPUs designed with Timed Continuous 
+Petri Nets (TCPN) under the infinite server semantics (ISS). Also, the paper 
+proposes an implementation of this fluid scheduler as a feasible discrete 
+scheduler where the number of task migrations and preemptions is bounded.
+ keywords: {Petri nets;multiprocessing systems;processor scheduling;programming 
+language semantics;variable structure systems;CPU;ISS;TCPN;continuous 
+control;discrete scheduler;fluid task executions;fluid-time scheduler;infinite 
+server semantics;multiprocessor systems;online scheduling;sliding mode 
+controller;sliding surface;task migrations;task preemptions;timed continuous 
+Petri nets;Mathematical model;Multiprocessing systems;Petri nets;Program 
+processors;Real-time systems;Resource 
+management;Schedules;Control;Modeling;Scheduling;TCPN},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497860&isnumber=7497815
+
+K. Barkaoui, A. Hicheur, A. Kheldoun and Ding Liu, "Modelling and analyzing home 
+care plans using high-level Petri nets," 2016 13th International Workshop on 
+Discrete Event Systems (WODES), Xi'an, 2016, pp. 284-290.
+doi: 10.1109/WODES.2016.7497861
+Abstract: Given the constant pressure to improve healthcare efficiency, home 
+care appears as a unique solution for providing personalized healthcare service 
+and home assistance for a growing number of elderly and chronic patients. Home 
+care plans define the health cares or supportive cares delivered by the 
+different home care professionals for a given patient. The management of these 
+plans is challenging since they are inherently flexible, context dependent and 
+cooperative processes involving repetitive activities with complex temporal 
+expressions. In this paper, we propose a formal method based time recursive 
+ECATNets for modelling and analyzing home care plans. The choice of this 
+formalism relies on its ability in modelling flexible and distributed home care 
+processes, with complex temporal constraints. Moreover, since time recursive 
+ECATNets semantics are expressed in terms of conditional rewriting logic, we can 
+use the Real Time MAUDE TCTL model checker to verify temporal properties of home 
+care plan processes.
+ keywords: {Petri nets;geriatrics;health care;patient care;chronic 
+patients;complex temporal constraints;complex temporal expressions;conditional 
+rewriting logic;cooperative processes;distributed home care processes;elderly 
+patients;formal method based time recursive ECATNets;health cares;healthcare 
+efficiency;high-level Petri nets;home assistance;home care plan processes;home 
+care plans;home care professionals;personalized healthcare service;real time 
+MAUDE TCTL model checker;repetitive activities;Analytical 
+models;Automata;Context;Delays;Medical services;Petri nets;Real-time systems},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497861&isnumber=7497815
+
+J. Wang, Xiaoou Li and Gaiyun Liu, "Cyclic workflow resource requirement 
+analysis and application in healthcare," 2016 13th International Workshop on 
+Discrete Event Systems (WODES), Xi'an, 2016, pp. 291-297.
+doi: 10.1109/WODES.2016.7497862
+Abstract: In our previous work, we proposed a resource-oriented workflow nets 
+(ROWN) approach for acyclic workflow resource requirement analysis. Resource 
+requirements analysis for general workflows can be done through reachability 
+analysis. For a class of well-structured workflows, an efficient resource 
+analysis algorithm was also developed. In this paper, we discuss how to analyze 
+the resource requirements of workflows with loops. The main idea is to convert a 
+cyclic workflow into an equivalent acyclic workflow in terms of maximum resource 
+requirements and net resource consumption. An application to emergency 
+healthcare workflow resource requirement analysis is presented to illustrate how 
+the approach works step-by-step.
+ keywords: {health care;reachability analysis;workflow management software;ROWN 
+approach;acyclic workflow resource requirement analysis;emergency healthcare 
+workflow resource requirement analysis;equivalent acyclic workflow;maximum 
+resource requirements;net resource consumption;reachability analysis;resource 
+requirements analysis;resource-oriented workflow nets approach;well-structured 
+workflows;Emergency services;Fires;Firing;Medical services;Petri 
+nets;Reachability analysis;Silicon;Cyclic workflows;Petri nets;healthcare 
+workflows;resource requirements analysis;resource-oriented workflow nets},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497862&isnumber=7497815
+
+L. K. Carvalho, Y. C. Wu, R. Kwong and S. Lafortune, "Detection and prevention 
+of actuator enablement attacks in supervisory control systems," 2016 13th 
+International Workshop on Discrete Event Systems (WODES), Xi'an, 2016, pp. 
+298-305.
+doi: 10.1109/WODES.2016.7497863
+Abstract: The deployment of control systems with network-connected components 
+nowadays has made feedback control systems vulnerable to attacks over the 
+network. This paper considers the problem of intrusion detection and prevention 
+in supervisory control systems, where the attacker has the ability to enable 
+vulnerable actuator events that are disabled by the supervisor. We present a 
+mathematical model for the system under such actuator enablement attacks and 
+propose a defense strategy that detects attacks online and disables all 
+controllable events after an attack is detected. We develop an algorithm for 
+verifying whether the system can prevent damage from attacks with the proposed 
+defense strategy, where damage is modeled as the reachability of a pre-defined 
+set of “unsafe” states. The technical condition of interest that is necessary 
+and sufficient in this context is characterized; it is termed “AE-safe 
+controllability”. Finally, we illustrate the methodology with a traffic system 
+example.
+ keywords: {controllability;feedback;mathematical analysis;security of 
+data;AE-safe controllability;actuator enablement attacks detection;actuator 
+enablement attacks prevention;actuator events;control systems deployment;defense 
+strategy;feedback control systems;intrusion detection;intrusion 
+prevention;mathematical model;network-connected components;supervisory control 
+systems;unsafe states;Actuators;Automata;Closed loop 
+systems;Controllability;Intrusion detection;Supervisory control},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497863&isnumber=7497815
+
+M. Yeddes, "Enforcing opacity with Orwellian observation," 2016 13th 
+International Workshop on Discrete Event Systems (WODES), Xi'an, 2016, pp. 
+306-312.
+doi: 10.1109/WODES.2016.7497864
+Abstract: In computer security, opacity is widely used and considered as a 
+general language-theoretic scheme of many security properties of systems. A 
+secret behaviour of a system is opaque if a passive attacker can never deduce 
+its occurrence from the system observation. In [9], instead of considering the 
+case of static observability where the set of observable events is fixed 
+off-line or dynamic observability where the set of observable events changes 
+over time depending on the history of the trace, we have introduced Orwellian 
+partial observability where unobservable events are not revealed provided that 
+downgrading events never occurs in the future of the trace. We show in the 
+previous paper verifying opacity for regular secret is opaque for a regular 
+language L w.r.t. an Orwellian projection is PSPACE-complete while it has been 
+proved undecidable even for a regular language L w.r.t. a general Orwellian 
+observation function. In this paper, we address two problems of opacification of 
+a regular secret φ for a regular language L w.r.t. an Orwellian projection πo,d: 
+Given L and a secret φ ∈ L, the first problem consists in computing some minimal 
+regular super-language M of L, if it exists, such that φ is opaque for M w.r.t. 
+πo,d and the second consists to compute the supremal sub-language M' of L such 
+that φ is opaque for M' w.r.t. πo,d. We derive both language-theoretic 
+characterizations and algorithms to solve the two problems.
+ keywords: {computational linguistics;formal languages;observability;security of 
+data;Orwellian partial observability;PSPACE-complete problem;computer 
+security;language-theoretic characterizations;minimal regular 
+super-language;opacity;passive attacker;regular language;security 
+properties;supremal sub-language;Automata;Computer 
+security;Conferences;Observability;Observers;Protocols;Formal 
+verification;Minimal Super-language;Opacity;Orwellian observation;Security 
+policies;Supremal Sub-language},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497864&isnumber=7497815
+
+Y. Tong, Ziyue Ma, Z. Li, C. Seatzu and A. Giua, "Supervisory enforcement of 
+current-state opacity with uncomparable observations," 2016 13th International 
+Workshop on Discrete Event Systems (WODES), Xi'an, 2016, pp. 313-318.
+doi: 10.1109/WODES.2016.7497865
+Abstract: Current-state opacity is a key security property in discrete event 
+systems. A system is said to be current-state opaque if the intruder, who only 
+has partial observations on the system's evolution, is never able to infer that 
+the current state of the system is within a set of secret states. In this work, 
+we address the problem of enforcing current-state opacity by supervisory 
+control. Given a system that is modeled with a finite automaton and that is not 
+current-state opaque with respect to a given secret, the enforcement problem 
+consists in designing a supervisor so that the controlled system is 
+current-state opaque. We assume that the supervisor can only observe and control 
+a subset of events. To be more general, we assume no specific containment 
+relationship exists between the sets of events that can be observed by the 
+intruder and the supervisor, respectively. We call this general setting 
+uncomparable observations. We show that the maximally permissive supervisor 
+always exists and propose a novel approach for its design.
+ keywords: {discrete event systems;finite automata;observers;current-state 
+opacity;current-state opaque controlled system;discrete event systems;finite 
+automaton;maximally permissive supervisor;supervisory control;uncomparable 
+observations;Control theory;Supervisory control},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497865&isnumber=7497815
+
+B. Bérard, O. Kouchnarenko, J. Mullins and M. Sassolas, "Preserving opacity on 
+Interval Markov Chains under simulation," 2016 13th International Workshop on 
+Discrete Event Systems (WODES), Xi'an, 2016, pp. 319-324.
+doi: 10.1109/WODES.2016.7497866
+Abstract: Given a probabilistic transition system (PTS) A partially observed by 
+an attacker, and an ω-regular predicate φ over the traces of A, measuring the 
+disclosure of the secret φ in A means computing the probability that an attacker 
+who observes a run of A can ascertain that its trace belongs to φ. We consider 
+specifications given as Interval Markov Chains (IMCs), which are underspecified 
+Markov chains where probabilities on edges are only required to belong to 
+intervals. Scheduling an IMC S produces a concrete implementation as a PTS and 
+we define the worst case disclosure of secret φ in S as the maximal disclosure 
+of φ over all PTSs thus produced. We compute this value for a subclass of IMCs 
+and we prove that simulation between specifications can only improve the opacity 
+of implementations.
+ keywords: {Markov processes;cryptography;probability;simulation;ω-regular 
+predicate;IMC;PTS;attacker;interval Markov chains;maximal disclosure;opacity 
+preservation;probabilistic transition system;security 
+requirements;simulation;worst case disclosure;Automata;Computational 
+modeling;Context;Markov processes;Observers;Probabilistic logic;Semantics},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497866&isnumber=7497815
+
+M. Schuh and J. Lunze, "Tracking control of deterministic I/O automata," 2016 
+13th International Workshop on Discrete Event Systems (WODES), Xi'an, 2016, pp. 
+325-331.
+doi: 10.1109/WODES.2016.7497867
+Abstract: A tracking control framework for plants modeled by deterministic I/O 
+automata is presented. The control aim is to steer the plant into a desired 
+final state while at the same time guaranteeing its adherence to some safety 
+constraints. It is proposed to control the plant by a tracking controller which 
+consists of a trajectory planning unit and a controller. The trajectory planning 
+unit searches for a reference trajectory that leads to the desired final state 
+and avoids illegal transitions corresponding to safety constraints. The 
+controller, which is modeled by a deterministic I/O automaton, steers the plant 
+along this reference trajectory. It is proved that the plant in the closed-loop 
+system with the proposed tracking controller always fulfills the given control 
+aim, if it is controllable, that is, if there exists a path leading to the 
+desired final state in the automaton graph of the plant without the illegal 
+transitions.
+ keywords: {closed loop systems;controllability;deterministic 
+automata;trajectory control;automaton graph;closed-loop 
+system;controllability;deterministic I/O automata;deterministic input/output 
+automata;safety constraints;tracking control framework;trajectory planning 
+unit;Automata;Closed loop 
+systems;Controllability;Planning;Safety;Tracking;Trajectory},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497867&isnumber=7497815
+
+L. Xia, "Optimization of parametric policies of Markov decision processes under 
+a variance criterion," 2016 13th International Workshop on Discrete Event 
+Systems (WODES), Xi'an, 2016, pp. 332-337.
+doi: 10.1109/WODES.2016.7497868
+Abstract: The variance criterion is an uncommon while important criterion in 
+Markov decision processes. The non-Markovian property caused by the nonlinear 
+(quadratic) structure of variance function makes the traditional MDP approaches 
+invalid for this problem. In this paper, we study the optimization of parametric 
+policies of MDPs under the variance criterion, where the optimization parameters 
+are the probabilities of selecting actions at each state. With the basic idea of 
+sensitivity-based optimization, we derive a difference formula and a derivative 
+formula of the reward variance with respect to the system parameter. The 
+variance difference formula is fundamental for this problem and it partly 
+handles the difficulty of nonlinear property of variance function through a 
+nonnegative term. With these sensitivity formulas, we prove that the optimal 
+policy with the minimal variance can be found in the deterministic policy space. 
+A necessary condition of the optimal policy is also derived. Compared with the 
+counterpart of gradient-based approaches in the literature, our approach can 
+provide a clear viewpoint for this variance optimization problem.
+ keywords: {Markov processes;decision theory;optimisation;probability;MDP;Markov 
+decision processes;derivative formula;deterministic policy space;necessary 
+condition;nonMarkovian property;nonlinear property;nonlinear structure;optimal 
+policy;optimization parameters;parametric policies;probabilities;quadratic 
+structure;reward variance;sensitivity-based optimization;system 
+parameter;variance criterion;variance difference formula;variance function;Cost 
+function;Markov processes;Renewable energy sources;Sensitivity;Standards;Markov 
+decision process;discrete event system;parametric policy;sensitivity 
+analysis;variance criterion},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497868&isnumber=7497815
+
+X. Meng, J. Li and X. Dai, "Selection of solution strategies for colored 
+traveling salesman problems with different city distribution," 2016 13th 
+International Workshop on Discrete Event Systems (WODES), Xi'an, 2016, pp. 
+338-342.
+doi: 10.1109/WODES.2016.7497869
+Abstract: The colored traveling salesman problem (CTSP) is a generalization of 
+the well-known multiple traveling salesman problem. In CTSP, each salesman is 
+allocated a particular color and each city carrying one to all salesmen' colors 
+allows any salesman of the same color to visit exactly once. There are two 
+strategies to address CTSP, i.e., the direct and transformed. The former is to 
+solve a CTSP directly while the latter addresses it by decomposing it into 
+simpler sub-problems first. Given a CTSP with different city color distribution, 
+the solutions obtained by them may be different. We consider that there should 
+be a certain regularity for selecting a proper solution strategy for a CTSP 
+according to its city color distribution. This paper focuses on investigating 
+such a regularity and establishes some principles for the solution strategies 
+selection. First, we propose a city coloring scheme and algorithm for allocating 
+proportionally different colors to the cities in each cluster. Then, we define a 
+color dispersion degree as the percentage of color-changed cities in each city 
+cluster. Finally, some experiments are conducted to track the regularity for 
+selecting a proper strategy for solving a CTSP according to its city color 
+distribution. The results show that the more scattered the city color 
+distribution, the better the solution achieved by the direct strategy, using the 
+same genetic algorithm. Also, it suggests that the solution algorithm combined 
+with proximity operations, e.g., greedy operation, can efficiently accommodate 
+the fluctuating city color distribution in CTSP.
+ keywords: {genetic algorithms;travelling salesman problems;CTSP;city color 
+distribution;city coloring scheme;color-changed cities;colored traveling 
+salesman problems;direct strategy;genetic algorithm;greedy operation;multiple 
+traveling salesman problem;proximity operations;salesmen colors;solution 
+strategies;solution strategy;Clustering algorithms;Color;Dispersion;Genetic 
+algorithms;Simulated annealing;Traveling salesman problems;Urban areas;City 
+Color Distribution;Colored Traveling Salesman Problem;Genetic Algorithm;Greedy 
+Algorithm;Simulated Annealing Algorithm},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497869&isnumber=7497815
+
+W. Wei and Zheng Wang, "Integrated optimal production and energy control of a 
+single machine and single product-type manufacturing system," 2016 13th 
+International Workshop on Discrete Event Systems (WODES), Xi'an, 2016, pp. 
+343-348.
+doi: 10.1109/WODES.2016.7497870
+Abstract: Reduction of energy consumption has attracted much attention of the 
+researchers and practitioners in the field of sustainable manufacturing. 
+However, the issue of integrated optimal production and energy control for 
+sustainable manufacturing systems has not yet been investigated sufficiently. In 
+this paper, we study such a problem for a single machine and single product-type 
+manufacturing system, with the objective of minimizing the sum of production 
+cost and energy consumption cost. To solve this problem, a Markov decision 
+process model is developed, based on which, we obtain the integrated optimal 
+production and energy control policy by the policy iteration method. 
+Furthermore, we reveal the structural characteristics of optimal control policy 
+and analyze the influence of system parameters on it by comparing different 
+cases.
+ keywords: {cost reduction;energy conservation;manufacturing systems;sustainable 
+development;cost minimization;energy consumption cost;energy consumption 
+reduction;energy control policy;optimal production policy;policy iteration 
+method;production cost;single machine single product-type manufacturing 
+system;sustainable manufacturing;Energy consumption;Manufacturing systems;Markov 
+processes;Process control;Switches},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497870&isnumber=7497815
+
+L. Bai, N. Wu, Z. Li and M. Zhou, "Buffer space configuration and scheduling 
+analysis of single-arm multi-cluster tools," 2016 13th International Workshop on 
+Discrete Event Systems (WODES), Xi'an, 2016, pp. 349-354.
+doi: 10.1109/WODES.2016.7497871
+Abstract: This work studies the buffer space configuration problem to obtain an 
+optimal one-wafer cyclic schedule for single-arm multi-cluster tools with a 
+linear topology. To do so, a Petri net model is developed to describe the 
+dynamic behavior of the system by extending the resource-oriented Petri nets 
+such that a schedule can be parameterized with robots' waiting time. Based on 
+this model, conditions for the existence of a one-wafer cyclic schedule with the 
+lower bound of cycle time are presented, and algorithm is developed to find such 
+an optimal schedule. The algorithm requires only simple calculation to set the 
+robots' waiting time and configure the buffer spaces between two individual 
+tools. An example is presented to show the application and power of the proposed 
+method.
+ keywords: {Petri nets;control engineering 
+computing;robots;scheduling;topology;buffer space configuration;linear 
+topology;optimal one-wafer cyclic schedule;resource-oriented Petri 
+nets;robots;scheduling analysis;single-arm multicluster tools;Color;Job shop 
+scheduling;Load modeling;Robots;Schedules;Semiconductor device modeling},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497871&isnumber=7497815
+
+Z. Liu, N. Wu, F. Yang and Y. Qiao, "Optimal scheduling of time-constrained 
+single-arm cluster tools with wafer revisiting," 2016 13th International 
+Workshop on Discrete Event Systems (WODES), Xi'an, 2016, pp. 355-360.
+doi: 10.1109/WODES.2016.7497872
+Abstract: It is very difficult to schedule a single-arm cluster tool with wafer 
+revisiting such that wafer residency time constraints are satisfied. This paper 
+conducts a study on this challenging problem for a single-arm cluster tool with 
+atomic layer deposition (ALD) process. With a so called p-backward strategy 
+being applied, a Petri net model is developed to describe the dynamic behavior 
+of the system. Based on the model, existence of a feasible schedule is analyzed, 
+schedulability conditions are derived, and a scheduling algorithm is presented 
+if there is a schedule. A schedule is obtained by simply setting the robot 
+waiting time and it is very computationally efficient. The obtained schedule is 
+shown to be optimal. Illustrative examples are given to demonstrate the proposed 
+approach.
+ keywords: {Petri nets;atomic layer deposition;industrial 
+manipulators;scheduling;semiconductor device manufacture;semiconductor 
+technology;ALD process;Petri net model;atomic layer deposition process;dynamic 
+behavior;optimal scheduling;p-backward strategy;robot waiting 
+time;schedulability conditions;single-arm cluster tool 
+scheduling;time-constrained single-arm cluster tools;wafer residency time 
+constraints;wafer revisiting;Job shop scheduling;Optimal scheduling;Petri 
+nets;Robots;Schedules;Semiconductor device modeling;Time factors},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497872&isnumber=7497815
+
+X. Yin and S. Lafortune, "On two-way observer and its application to the 
+verification of infinite-step and K-step opacity," 2016 13th International 
+Workshop on Discrete Event Systems (WODES), Xi'an, 2016, pp. 361-366.
+doi: 10.1109/WODES.2016.7497873
+Abstract: We investigate the verification of the properties of infinite-step 
+opacity and K-step opacity for partially-observed discrete event systems. A 
+system is said to be infinite-step opaque (respectively, K-step opaque) if the 
+intruder can never determine for sure that the system was in a secret state for 
+any instant within infinite steps (respectively, K steps) prior to that 
+particular instant. We derive a new separation principle for state estimates 
+which characterizes the information dependence in this opacity verification 
+problem. A new information structure called the two-way observer is proposed. 
+Based on the two-way observer, we provide new algorithms for the verification of 
+infinite-step opacity and the verification of K-step opacity, respectively. We 
+show that the proposed verification algorithms have lower computational 
+complexity than the known algorithms in the literature.
+ keywords: {discrete event systems;finite state machines;formal 
+verification;K-step opacity verification;infinite-step opacity 
+verification;infinite-step opaque;partially-observed discrete event 
+system;separation principle;state estimates;two-way observer;Automata;Complexity 
+theory;Computational modeling;Discrete-event 
+systems;Observers;Privacy;Security},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497873&isnumber=7497815
+
+C. N. Hadjicostis and C. Seatzu, "Decentralized state estimation in discrete 
+event systems under partially ordered observation sequences," 2016 13th 
+International Workshop on Discrete Event Systems (WODES), Xi'an, 2016, pp. 
+367-372.
+doi: 10.1109/WODES.2016.7497874
+Abstract: We consider the problem of decentralized state estimation, where two 
+or more observation sites send information to a coordinator who aims to 
+determine the set of possible current states of a given discrete event system 
+(DES). More specifically, we consider a DES (modeled as a nondeterministic 
+finite automaton) whose underlying activity is partially observed at multiple 
+observation sites that can gather information about different subsets of events. 
+When these sites report to the coordinator the sequences of observations that 
+they have recorded, the goal is to fuse this information and infer the possible 
+current states of the given system. We discuss an efficient recursive algorithm 
+that can perform this task with complexity that is captured by the product of 
+the lengths of the observation sequences reported by the observation sites.
+ keywords: {decentralised control;discrete event systems;finite automata;state 
+estimation;DES;decentralized state estimation;discrete event systems;information 
+fusion;nondeterministic finite automaton;partially-ordered observation 
+sequences;recursive algorithm;Automata;Complexity theory;Discrete-event 
+systems;Observers;Petri nets;Protocols},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497874&isnumber=7497815
+
+M. Ibrahim, J. Chen and R. Kumar, "Quantification of distributed secrecy loss in 
+stochastic discrete event systems under bounded-delay communications," 2016 13th 
+International Workshop on Discrete Event Systems (WODES), Xi'an, 2016, pp. 
+373-378.
+doi: 10.1109/WODES.2016.7497875
+Abstract: Unlike information, behaviors cannot be encrypted and may instead be 
+protected by providing covers that generate indistinguishable observations from 
+behaviors needed to be kept secret. Such a scheme may still leak information 
+about secrets due to statistical difference between the occurrence probabilities 
+of the secrets and their covers. Jensen-Shannon Divergence (JSD) is a possible 
+means of quantifying statistical difference between two distributions and was 
+used to measure such information leak as in our earlier work [1]. This paper 
+studies secrecy quantification in stochastic partially-observed discrete event 
+systems in the presence of distributed collusive attackers/observers, each with 
+its own local partial observability, generalizing the setting of single observer 
+in [1]. The local observers collude and exchange their observations over 
+communication channels that introduce bounded delays. We propose a method to 
+compute the JSD-based secrecy measure in this distributed setting by introducing 
+bounded-delay channel models to extend the system model to capture the effect of 
+exchange of observations, and to measure the distributed secrecy loss.
+ keywords: {delays;discrete event 
+systems;observability;observers;probability;statistical analysis;stochastic 
+systems;telecommunication channels;JSD-based secrecy measure;Jensen-Shannon 
+divergence;bounded-delay channel models;bounded-delay 
+communications;communication channels;distributed collusive 
+attackers/observers;distributed secrecy loss quantification;distributed 
+setting;information leak;local observers;local partial observability;secrecy 
+quantification;secret occurrence probabilities;statistical difference;stochastic 
+partially-observed discrete event systems;Channel models;Delays;Discrete-event 
+systems;Loss measurement;Mutual information;Observers;Stochastic processes},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497875&isnumber=7497815
+
+C. Keroglou and C. N. Hadjicostis, "Probabilistic system opacity in discrete 
+event systems," 2016 13th International Workshop on Discrete Event Systems 
+(WODES), Xi'an, 2016, pp. 379-384.
+doi: 10.1109/WODES.2016.7497876
+Abstract: In many emerging security applications, a system designer frequently 
+needs to ensure that a certain property of a given system (that may reveal 
+important details about the system's operation) be kept secret (opaque) to 
+outside observers (eavesdroppers or intruders). Motivated by such applications, 
+several researchers have formalized, analyzed, and described methods to verify 
+notions of opacity in discrete event systems of interest. This paper introduces 
+and analyzes a notion of opacity in systems that can be modeled as probabilistic 
+finite automata or hidden Markov models. We consider a setting where a user 
+needs to choose a specific hidden Markov model (HMM) out of m possible 
+(different) HMMs, but would like to “hide” the true system from intruders, by 
+not allowing them to have an arbitrary level certainty as to which system has 
+been chosen. We describe necessary and sufficient conditions (that can be 
+checked with polynomial complexity), under which the intruder cannot distinguish 
+the true HMM, namely, the intruder cannot achieve a level of certainty about its 
+decision that is above a certain threshold that we can a priori compute.
+ keywords: {computational complexity;discrete event systems;finite 
+automata;hidden Markov models;probabilistic automata;security of 
+data;HMM;discrete event systems;eavesdroppers;hidden Markov 
+models;intruders;polynomial complexity;probabilistic finite 
+automata;probabilistic system opacity;security applications;system 
+operation;Automata;Discrete-event systems;Hidden Markov models;Markov 
+processes;Observers;Probabilistic logic;Probability},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497876&isnumber=7497815
+
+M. Ibrahim, J. Chen and R. Kumar, "A resiliency measure for electrical power 
+systems," 2016 13th International Workshop on Discrete Event Systems (WODES), 
+Xi'an, 2016, pp. 385-390.
+doi: 10.1109/WODES.2016.7497877
+Abstract: Providing a resiliency measure for power systems is one of the 
+challenges towards its Dynamic Security Assessment. This paper introduces a 
+resiliency measure, called Level-of-Resilience (LoR), determined by examining: 
+(i) the Region-of- Stability-Reduction (RoSR), as the RoS evolves under attack 
+and recovery actions as captured by a “modal-RoS”, (ii) the eventual 
+Level-of-Performance-Reduction (LoPR), as measured by percentage of reduction of 
+load served, and (iii) Recovery-Time (RT), which is the time system takes to 
+detect and recover from an attack or a fault. We illustrate our measure by 
+comparing resiliency level of two power systems under two different attack 
+scenarios.
+ keywords: {power system reliability;power system stability;LoPR;LoR 
+measure;RoSR;electrical power 
+systems;level-of-performance-reduction;level-of-resilience 
+measure;modal-RoS;recovery-time;region-of-stability-reduction;resiliency 
+measure;Admittance;Circuit faults;Generators;Power measurement;Power system 
+stability;Resilience;Trajectory},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497877&isnumber=7497815
+
+J. Niguez, S. Amari and J. M. Faure, "Analysis of Timed Automata with Guards in 
+dioids algebra," 2016 13th International Workshop on Discrete Event Systems 
+(WODES), Xi'an, 2016, pp. 391-397.
+doi: 10.1109/WODES.2016.7497878
+Abstract: In this paper, we propose a new linear representation to model the 
+behavior of Timed Automata with Guards (TAGs) using the formalism of dioids 
+algebra. This linear modeling is used to define the parallel composition and 
+properties of determinism for TAGs. The contribution is illustrated with an 
+example of a jobshop to analyze the performances of this system.
+ keywords: {algebra;automata theory;TAG;behavior model;determinism 
+properties;dioids algebra;linear modeling;linear representation;parallel 
+composition;timed automata with guards;Algebra;Analytical 
+models;Automata;Clocks;Delays;Discrete-event systems;Timed automata with 
+guards;dioids algebra;discrete event systems;linear representation},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497878&isnumber=7497815
+
+J. Xu, L. Buşoniu, T. van den Boom and B. De Schutter, "Receding-horizon control 
+for max-plus linear systems with discrete actions using optimistic planning," 
+2016 13th International Workshop on Discrete Event Systems (WODES), Xi'an, 2016, 
+pp. 398-403.
+doi: 10.1109/WODES.2016.7497879
+Abstract: This paper addresses the infinite-horizon optimal control problem for 
+max-plus linear systems where the considered objective function is a sum of 
+discounted stage costs over an infinite horizon. The minimization problem of the 
+cost function is equivalently transformed into a maximization problem of a 
+reward function. The resulting optimal control problem is solved based on an 
+optimistic planning algorithm. The control variables are the increments of 
+system inputs and the action space is discretized as a finite set. Given a 
+finite computational budget, a control sequence is returned by the optimistic 
+planning algorithm. The first control action or a subsequence of the returned 
+control sequence is applied to the system and then a receding-horizon scheme is 
+adopted. The proposed optimistic planning approach allows us to limit the 
+computational budget and also yields a characterization of the level of 
+near-optimality of the resulting solution. The effectiveness of the approach is 
+illustrated with a numerical example. The results show that the optimistic 
+planning approach results in a lower tracking error compared with a 
+finite-horizon approach when a subsequence of the returned control sequence is 
+applied.
+ keywords: {discrete event systems;infinite horizon;linear 
+systems;minimisation;optimal control;control action;control sequence;control 
+variables;cost function minimization problem;discounted stage costs;discrete 
+action space;finite computational budget;infinite-horizon optimal control 
+problem;max-plus linear systems;near-optimality level;objective 
+function;optimistic planning algorithm;receding-horizon control;returned control 
+sequence;reward function maximization problem;system inputs;Aerospace 
+electronics;Algorithm design and analysis;Linear programming;Linear 
+systems;Optimal control;Planning},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497879&isnumber=7497815
+
+Y. Shang, L. Hardouin, M. Lhommeau and C. A. Maia, "Robust controllers in 
+disturbance decoupling of uncertain max-plus linear systems: an application to a 
+high throughput screening system for drug discovery," 2016 13th International 
+Workshop on Discrete Event Systems (WODES), Xi'an, 2016, pp. 404-409.
+doi: 10.1109/WODES.2016.7497880
+Abstract: This paper presents robust controllers solving the disturbance 
+decoupling problem(DDP) of a class of uncertain max-plus linear systems, whose 
+system matrices vary between intervals with known lower and upper bounds. The 
+DDP for such uncertain max-plus linear systems is defined as finding a control 
+interval such that the output trajectory interval for the disturbed controlled 
+system belongs to the output trajectory interval for the undisturbed controlled 
+system. In other words, the controls are able to absorb the effects of 
+disturbances robustly for such systems. Both of the open-loop control intervals 
+and the output feedback control intervals solving the DDP are constructed using 
+the residuation theory and proved to be optimal for the just-in-time control 
+criterion. The main results of this paper are illustrated by a high throughput 
+screening system for drug discovery.
+ keywords: {drugs;feedback;just-in-time;linear systems;matrix algebra;open loop 
+systems;pharmaceutical industry;robust control;uncertain systems;DDP;disturbance 
+decoupling problem;disturbed controlled system;drug discovery;high throughput 
+screening system;just-in-time control criterion;open-loop control 
+intervals;output feedback control intervals;output trajectory 
+interval;residuation theory;robust controllers;system matrices;uncertain 
+max-plus linear systems;Delays;Linear systems;Mathematical 
+model;Robustness;Trajectory;Upper bound},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497880&isnumber=7497815
+
+S. Moradi, L. Hardouin and J. Raisch, "Modeling and control of resource sharing 
+problems in dioids," 2016 13th International Workshop on Discrete Event Systems 
+(WODES), Xi'an, 2016, pp. 410-417.
+doi: 10.1109/WODES.2016.7497881
+Abstract: The topic of this paper is the modeling and control of a class of 
+timed Petri nets with resource sharing problems in a dioid framework. We first 
+introduce a signal which denotes the number of resources available for each 
+competing subsystem at each instant of time. Based on this signal, the overall 
+system is modeled in min-plus algebra. Using residuation theory, an optimal 
+control policy is developed, where optimality is in the sense of a 
+lexicographical order reflecting the chosen prioritization of subsystems.
+ keywords: {Petri nets;algebra;discrete event systems;linear systems;optimal 
+control;dioid framework;lexicographical order;linear discrete event dynamical 
+systems;min-plus algebra;optimal control policy;residuation theory;resource 
+sharing problem control;resource sharing problem modeling;subsystem 
+prioritization;timed Petri nets;Algebra;Optimal control;Petri nets;Resource 
+management;Standards;Switches},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497881&isnumber=7497815
+
+H. Hamri, R. Kara and S. Amari, "Multiparametric predictive control for a class 
+of Discrete Event Systems," 2016 13th International Workshop on Discrete Event 
+Systems (WODES), Xi'an, 2016, pp. 418-423.
+doi: 10.1109/WODES.2016.7497882
+Abstract: The focus of this paper is to synthesise an optimal control law that 
+allows to track a desired trajectory with respect to the constraints both on the 
+control and state vectors for a class of Discrete Event Systems (DESs). For 
+this, a geometric approach of a model predictive control is extended to a class 
+of DESs modelled by P-time event graphs in the standard algebra using the dater 
+equations. The use of the concept of (A, B)-invariance allows us to obtain the 
+polyhedral parametric constraints. The constrained parametric model predictive 
+control leads for a multiparametric quadratic programming (MP-QP) for which the 
+solution is a feedback Piece-Wise Affine (PWA) control defined for different 
+feasible regions.
+ keywords: {algebra;discrete event systems;feedback;graph 
+theory;invariance;optimal control;predictive control;quadratic 
+programming;trajectory control;vectors;(A, B)-invariance;DES;MP-QP;P-time event 
+graph;PWA control;constrained parametric model predictive control;discrete event 
+system;feedback piecewise affine control;geometric approach;multiparametric 
+predictive control;multiparametric quadratic programming;optimal control 
+law;polyhedral parametric constraint;standard algebra;state vector;trajectory 
+tracking;Adaptation models;Algebra;Discrete-event systems;Mathematical 
+model;Petri nets;Predictive control;Standards},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497882&isnumber=7497815
+
+F. Göbe, T. Timmermanns, O. Ney and S. Kowalewski, "Synthesis Tool for 
+Automation Controller Supervision," 2016 13th International Workshop on Discrete 
+Event Systems (WODES), Xi'an, 2016, pp. 424-431.
+doi: 10.1109/WODES.2016.7497883
+Abstract: The supervisory control theory is a conceptual framework to keep a 
+discrete-event system in a desired state space by disabling controllable events. 
+This paper introduces a new software tool to create supervisors for actual, 
+physical plants in terms of a PLC code implementation. It points out the 
+differences between SCT-synthesized supervisors and controllers and identifies a 
+scenario in which practical applications can benefit from supervision. The 
+presented tool provides a graphical user interface for the modeling and a 
+template-based code generator. For safety specifications, a slightly altered 
+automaton principle, called restricting specification, is used with the goal to 
+decrease the manual modeling effort. Furthermore, event preemption is supported, 
+which allows to permissively supervise controllers that react to uncontrollable 
+events. This paper intends to give a brief overview of the key features of the 
+tool.
+ keywords: {control engineering computing;discrete event systems;formal 
+specification;graphical user interfaces;PLC code;SCT-synthesized 
+supervisors;automation controller supervision;automaton principle;discrete-event 
+system;event preemption;graphical user interface;manual modeling effort;physical 
+plants;restricting specification;safety specifications;software tool;state 
+space;supervisory control theory;synthesis tool;template-based code 
+generator;Automata;Discrete-event 
+systems;Generators;Hardware;Safety;Software;Supervisory control},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497883&isnumber=7497815
+
+D. Bohlender, H. Simon, N. Friedrich, S. Kowalewski and S. Hauck-Stattelmann, 
+"Concolic test generation for PLC programs using coverage metrics," 2016 13th 
+International Workshop on Discrete Event Systems (WODES), Xi'an, 2016, pp. 
+432-437.
+doi: 10.1109/WODES.2016.7497884
+Abstract: This paper presents a technique for fully automated generation of test 
+cases for PLC programs adhering to the IEC 61131-3 standard. While previous 
+methods strive for completeness and therefore struggle with the state explosion 
+we pursue a symbolic execution based approach, dropping completeness but 
+nevertheless achieving similar or even better results in practice. The core 
+component is a symbolic execution engine which chooses the next state to 
+execute, handles constraints emerging during the execution and derives 
+respective test vectors leading to a state. To make for a high coverage of the 
+generated tests, we adopt techniques from concolic testing, allow for use of 
+heuristics to prioritise promising states but also merge states to alleviate the 
+path explosion. We exploit peculiarities of PLC semantics to determine 
+reasonable merge-points and unlike similar approaches even handle unreachable 
+code. To examine the feasibility of our technique we evaluate it on function 
+blocks used in industry.
+ keywords: {IEC standards;control engineering computing;industrial 
+control;program testing;programmable controllers;software metrics;IEC 61131-3 
+standard;PLC programs;PLC semantics;completeness;concolic test 
+generation;concolic testing;coverage metrics;fully automated test case 
+generation;function blocks;merge-points;path explosion;state explosion;symbolic 
+execution based approach;symbolic execution engine;unreachable code 
+handling;Concrete;Explosions;Measurement;Merging;Semantics;Software;Testing},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497884&isnumber=7497815
+
+R. Malik, "Programming a fast explicit conflict checker," 2016 13th 
+International Workshop on Discrete Event Systems (WODES), Xi'an, 2016, pp. 
+438-443.
+doi: 10.1109/WODES.2016.7497885
+Abstract: This paper describes the implementation of explicit model checking 
+algorithms to verify the nonblocking or nonconflicting property of discrete 
+event systems. Explicit algorithms enumerate and store all reachable states of a 
+synchronous composition. Three alternatives optimised for memory consumption or 
+runtime are described and compared. The algorithms have been implemented in C++ 
+in the discrete event systems library Waters, and experimental results show that 
+they can explore more than 100 million states on standard computers.
+ keywords: {C++ language;formal verification;C++ implementation;discrete event 
+system nonblocking property;discrete event system nonconflicting 
+property;discrete event systems library;explicit model checking algorithm 
+implementation;fast-explicit conflict checker;memory 
+consumption;runtime;Discrete-event systems;Indexes;Memory management;Model 
+checking;Software algorithms;Standards;System recovery},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497885&isnumber=7497815
+
+M. Zgorzelski and J. Lunze, "A method for the synchronisation of networked 
+discrete-event systems," 2016 13th International Workshop on Discrete Event 
+Systems (WODES), Xi'an, 2016, pp. 444-451.
+doi: 10.1109/WODES.2016.7497886
+Abstract: This paper describes networked discrete-event systems as a set of 
+controlled subsystems, which are physically and digitally connected. The 
+controlled subsystems have two operation modes: In the autonomous mode they 
+achieve local tasks independently of each other, whereas in the synchronisation 
+mode they perform given tasks synchronously by using communication. The paper 
+proposes to model the networked discrete-event system by an Input/Ouput (I/O) 
+automata network and gives a method for partial cooperation between the 
+controlled subsystems. A tracking control architecture, which has been 
+previously published for centralized systems, is extended to cope with the 
+physical interconnections and the digital communications with other controllers. 
+It is proved that the resulting networked tracking controller guarantees 
+autonomous and partially cooperative behaviour. These results are demonstrated 
+by means of an example featuring a flexible manufacturing system.
+ keywords: {automata theory;discrete event systems;flexible manufacturing 
+systems;networked control systems;synchronisation;autonomous mode;flexible 
+manufacturing system;input/ouput automata network;networked discrete-event 
+systems;synchronisation;tracking control architecture;Automata;Communication 
+networks;Couplings;Digital communication;Discrete-event 
+systems;Synchronization},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497886&isnumber=7497815
+
+M. Kloetzer and C. Mahulea, "Multi-robot path planning for syntactically co-safe 
+LTL specifications," 2016 13th International Workshop on Discrete Event Systems 
+(WODES), Xi'an, 2016, pp. 452-458.
+doi: 10.1109/WODES.2016.7497887
+Abstract: This paper presents an automatic strategy to control a team of 
+identical robots that should satisfy a given task expressed as a syntactically 
+co-safe Linear Temporal Logic (LTL) formula over a set of regions of interest. 
+The team of robots is modeled by using a Petri net system with outputs 
+(observations), thus avoiding the use of synchronized product of automatons. The 
+strategy starts by translating the task into a Büchi automaton and by choosing 
+a finite string satisfying the formula. Three Integer Linear Programming (ILP) 
+formulations are used to find in the Petri net model a sequence of reachable 
+markings such that the generated observations produce the chosen string of the 
+Büchi automaton. If the string is not correctly followed, another one is found 
+and the procedure is reiterated.
+ keywords: {Petri nets;automata theory;integer programming;linear 
+programming;mobile robots;multi-robot systems;path planning;temporal logic;Buchi 
+automaton;ILP formulation;Petri net system;finite string;identical 
+robots;integer linear programming;linear temporal logic;multirobot path 
+planning;syntactically co-safe LTL specification;Automata;Collision 
+avoidance;Computational modeling;Petri nets;Trajectory},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497887&isnumber=7497815
+
+L. Capra, "A pure SPEC-inscribed PN model for reconfigurable systems," 2016 13th 
+International Workshop on Discrete Event Systems (WODES), Xi'an, 2016, pp. 
+459-465.
+doi: 10.1109/WODES.2016.7497888
+Abstract: Petri Nets (PN) are a well established formal model for discrete event 
+systems (DES). Classical PNs, even if Turing powerful, lack of features for 
+specifying in an easy way structural changes that are likely to occur during 
+systems' lifecycle. Many different attempts to face this issue have lead to 
+several PN extensions, among which those matching the “nets within nets” 
+paradigm are of particular relevance. In this paper we consolidate a recently 
+introduced formal model for reconfigurable DES rigorously based on Reisig's 
+SPEC-inscribed nets, that have a sound algebraic initial semantics. Although 
+inspired by the same principles and goals as the “nets within net” paradigm, our 
+approach is uniform and consists of a single modelling layer. This permits 
+consolidated analysis techniques to be exploited. A well known, first-order 
+declarative language (OBJ) is used to inscribe nets.
+ keywords: {Petri nets;algebra;discrete event simulation;OBJ;Petri nets;Reisig's 
+SPEC-inscribed nets;SPEC-inscribed PN model;Turing;algebraic initial 
+semantics;discrete event systems;first-order declarative language;formal 
+model;nets within net paradigm;reconfigurable DES;reconfigurable systems;single 
+modelling layer;Analytical models;Computational modeling;Discrete-event 
+systems;Face;Object oriented modeling;Petri nets;Semantics},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497888&isnumber=7497815
+
+D. Lefebvre, "Deadlock-free scheduling for timed Petri net models combined with 
+MPC and backtracking," 2016 13th International Workshop on Discrete Event 
+Systems (WODES), Xi'an, 2016, pp. 466-471.
+doi: 10.1109/WODES.2016.7497889
+Abstract: This paper proposes algorithms that incrementally compute control 
+sequences driving the marking of timed Petri nets from an initial value to a 
+reference one, avoiding forbidden and dangerous states with a duration that 
+approaches the minimal value. The proposed algorithms are applicable to a large 
+class of discrete event systems in particular in the domain of flexible 
+manufacturing, communication and computer science or transportation and traffic. 
+To overcome the most burdensome part of the computations, only the sequences 
+encoded in a small area of the reachability graph are worked out. The main 
+contributions are to propose an estimation of the minimal duration of the 
+remaining sequences to the reference based on the computation of the firing 
+count vectors and a progressive search of the forbidden and dangerous states 
+according to a backtracking phase. The approach is suitable for deadlock-free 
+scheduling problems.
+ keywords: {Petri nets;backtracking;control system synthesis;discrete event 
+systems;predictive control;reachability analysis;scheduling;MPC;control 
+sequences;dangerous states;deadlock-free scheduling problem;discrete event 
+systems;firing count vectors;forbidden states;progressive search;reachability 
+graph;timed Petri net models;Cost function;Firing;Job shop scheduling;Petri 
+nets;Processor scheduling;System recovery},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497889&isnumber=7497815
+
+R. Ammour, E. Leclercq, E. Sanlaville and D. Lefebvre, "Faults prognosis using 
+partially observed stochastic Petri nets," 2016 13th International Workshop on 
+Discrete Event Systems (WODES), Xi'an, 2016, pp. 472-477.
+doi: 10.1109/WODES.2016.7497890
+Abstract: This article deals with the problem of fault prognosis in stochastic 
+discrete event systems. For that purpose, partially observed stochastic Petri 
+nets are considered to model the system with its sensors. The model represents 
+both healthy and faulty behaviors of the system. Marking trajectories which are 
+consistent with the measurements issued from the sensors are first obtained. 
+Based on the events dates, the probabilities of the consistent trajectories are 
+evaluated and a state estimation is obtained as a consequence. From the set of 
+possible current states and their probabilities, a method to evaluate the 
+probability of future fault is developed using a probabilistic model. An example 
+is presented to illustrate the results.
+ keywords: {Petri nets;discrete event systems;fault diagnosis;probability;state 
+estimation;stochastic processes;faults prognosis;partially observed stochastic 
+Petri nets;probabilities;state estimation;stochastic discrete event 
+systems;Computational modeling;Firing;Petri nets;Prognostics and health 
+management;Sensors;Stochastic processes;Trajectory},
+URL: 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7497890&isnumber=7497815
+
