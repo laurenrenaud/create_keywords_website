@@ -74,9 +74,11 @@ def main():
         html_list.append(li)
     li_list = '\n'.join(map(str, html_list))
 
-    # read abstracts into individual line items
     # create list to hold abstract lines
     abstract_list = []
+
+    # read abstracts into individual line items
+    abstracts = open('inputs/abstracts.txt', 'r')
     # read in the first line
     aline = abstracts.readline()
 
